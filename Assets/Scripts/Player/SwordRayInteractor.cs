@@ -1,28 +1,45 @@
-using UnityEngine;
+ï»¿using UnityEngine;
 using UnityEngine.XR.Interaction.Toolkit;
 using UnityEngine.XR.Interaction.Toolkit.Interactables;
-using TMPro;
 
 
 public class SwordRayInteractor : XRSimpleInteractable
 {
     [SerializeField] GameObject parent;
-    [SerializeField] TMP_Text text;
     protected override void OnHoverEntered(HoverEnterEventArgs args)
     {
         base.OnHoverEntered(args);
 
-        if (gameObject.name == "Right")
-            Debug.Log("Sað");
+        string interactorName = args.interactorObject.transform.name;
 
-        if (gameObject.name == "Left")
-            Debug.Log("Sol");
-
-        if (gameObject.name == "Up")
-            Debug.Log("Yukarý");
-
-        if (gameObject.name == "Down")
-            Debug.Log("Aþaðý");
+        if (interactorName.Contains("Left") && parent.GetComponent<Note>().GetColor() == COLOR.RED)
+        {
+            if (gameObject.name == parent.GetComponent<Note>().GetDirection().ToString())
+            {
+                PlayerManager.instance.AddScore(parent.GetComponent<Note>().GetScore());
+                Debug.Log("10-points");
+            }
+            else
+            {
+                Debug.Log("Wrong direction::");
+            }
+        }
+        else if(interactorName.Contains("Right") && parent.GetComponent<Note>().GetColor() == COLOR.BLUE)
+        {
+            if (gameObject.name == parent.GetComponent<Note>().GetDirection().ToString())
+            {
+                PlayerManager.instance.AddScore(parent.GetComponent<Note>().GetScore());
+                Debug.Log("10-points");
+            }
+            else
+            {
+                Debug.Log("Wrong direction::");
+            }
+        }
+        else
+        {
+            Debug.Log("Wrong color::");
+        }
 
         Destroy(parent);
     }

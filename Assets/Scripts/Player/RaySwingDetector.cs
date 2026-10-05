@@ -86,24 +86,24 @@ public class RaySwingDetector : MonoBehaviour
         //Debug.Log($"Sallama Algýlandý: {direction} (Hýz: {speed:F2} m/s)");
 
         // Kendi mekaniklerini yönlere göre buradan tetikleyebilirsin
-        switch (direction)
-        {
-            case SwingDirection.Up:
-                text.text = "Yukarý doðru sallandý!";
-                Debug.Log("Yukarý doðru sallandý!");
-                break;
-            case SwingDirection.Down:
-                text.text = "Aþaðý doðru sallandý!";
-                Debug.Log("Aþaðý doðru sallandý!");
-                break;
-            case SwingDirection.Left:
-                text.text = "Sola doðru sallandý!";
-                Debug.Log("Sola sallandý!");
-                break;
-            case SwingDirection.Right:
-                text.text = "Saða doðru sallandý!";
-                Debug.Log("Saða sallandý!");
-                break;
-        }
+        //switch (direction)
+        //{
+        //    case SwingDirection.Up:
+        //        text.text = "Yukarý doðru sallandý!";
+        //        Debug.Log("Yukarý doðru sallandý!");
+        //        break;
+        //    case SwingDirection.Down:
+        //        text.text = "Aþaðý doðru sallandý!";
+        //        Debug.Log("Aþaðý doðru sallandý!");
+        //        break;
+        //    case SwingDirection.Left:
+        //        text.text = "Sola doðru sallandý!";
+        //        Debug.Log("Sola sallandý!");
+        //        break;
+        //    case SwingDirection.Right:
+        //        text.text = "Saða doðru sallandý!";
+        //        Debug.Log("Saða sallandý!");
+        //        break;
+        //}
     }
 }

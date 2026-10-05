@@ -1,21 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "G:\\Yusuf-2026\\RhythmSword\\RhythmSword-Prototype\\",
+  "WorkspaceRootPath": "D:\\Projects\\RhythmSword-Prototype\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\Yusuf-2026\\RhythmSword\\RhythmSword-Prototype\\Assets\\Scripts\\Player\\SwordRayInteractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\RhythmSword-Prototype\\Assets\\Scripts\\Player\\SwordRayInteractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Player\\SwordRayInteractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\Yusuf-2026\\RhythmSword\\RhythmSword-Prototype\\Assets\\Scripts\\Player\\RaySwingDetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Player\\RaySwingDetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\RhythmSword-Prototype\\Assets\\Scripts\\Notes\\Note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Notes\\Note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\Yusuf-2026\\RhythmSword\\RhythmSword-Prototype\\Assets\\Scripts\\Spawning\\DestroyPoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Spawning\\DestroyPoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\RhythmSword-Prototype\\Assets\\Scripts\\Notes\\NoteData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Notes\\NoteData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\Yusuf-2026\\RhythmSword\\RhythmSword-Prototype\\Assets\\Scripts\\Spawning\\CubeSpawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\RhythmSword-Prototype\\Assets\\Scripts\\Player\\PlayerManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Player\\PlayerManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\RhythmSword-Prototype\\Assets\\Scripts\\Spawning\\CubeSpawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Spawning\\CubeSpawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,58 +30,87 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RaySwingDetector.cs",
-              "DocumentMoniker": "G:\\Yusuf-2026\\RhythmSword\\RhythmSword-Prototype\\Assets\\Scripts\\Player\\RaySwingDetector.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\RaySwingDetector.cs",
-              "ToolTip": "G:\\Yusuf-2026\\RhythmSword\\RhythmSword-Prototype\\Assets\\Scripts\\Player\\RaySwingDetector.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Player\\RaySwingDetector.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-04T15:48:16.551Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DestroyPoint.cs",
-              "DocumentMoniker": "G:\\Yusuf-2026\\RhythmSword\\RhythmSword-Prototype\\Assets\\Scripts\\Spawning\\DestroyPoint.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Spawning\\DestroyPoint.cs",
-              "ToolTip": "G:\\Yusuf-2026\\RhythmSword\\RhythmSword-Prototype\\Assets\\Scripts\\Spawning\\DestroyPoint.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Spawning\\DestroyPoint.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-04T15:17:08.578Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CubeSpawner.cs",
-              "DocumentMoniker": "G:\\Yusuf-2026\\RhythmSword\\RhythmSword-Prototype\\Assets\\Scripts\\Spawning\\CubeSpawner.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Spawning\\CubeSpawner.cs",
-              "ToolTip": "G:\\Yusuf-2026\\RhythmSword\\RhythmSword-Prototype\\Assets\\Scripts\\Spawning\\CubeSpawner.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Spawning\\CubeSpawner.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-04T15:17:03.479Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "SwordRayInteractor.cs",
-              "DocumentMoniker": "G:\\Yusuf-2026\\RhythmSword\\RhythmSword-Prototype\\Assets\\Scripts\\Player\\SwordRayInteractor.cs",
+              "DocumentMoniker": "D:\\Projects\\RhythmSword-Prototype\\Assets\\Scripts\\Player\\SwordRayInteractor.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\SwordRayInteractor.cs",
-              "ToolTip": "G:\\Yusuf-2026\\RhythmSword\\RhythmSword-Prototype\\Assets\\Scripts\\Player\\SwordRayInteractor.cs",
+              "ToolTip": "D:\\Projects\\RhythmSword-Prototype\\Assets\\Scripts\\Player\\SwordRayInteractor.cs",
               "RelativeToolTip": "Assets\\Scripts\\Player\\SwordRayInteractor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB8AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-04T15:15:14.159Z",
+              "WhenOpened": "2026-10-05T09:04:17.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerManager.cs",
+              "DocumentMoniker": "D:\\Projects\\RhythmSword-Prototype\\Assets\\Scripts\\Player\\PlayerManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerManager.cs",
+              "ToolTip": "D:\\Projects\\RhythmSword-Prototype\\Assets\\Scripts\\Player\\PlayerManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T09:03:08.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Note.cs",
+              "DocumentMoniker": "D:\\Projects\\RhythmSword-Prototype\\Assets\\Scripts\\Notes\\Note.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Notes\\Note.cs",
+              "ToolTip": "D:\\Projects\\RhythmSword-Prototype\\Assets\\Scripts\\Notes\\Note.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Notes\\Note.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAC0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T06:58:54.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NoteData.cs",
+              "DocumentMoniker": "D:\\Projects\\RhythmSword-Prototype\\Assets\\Scripts\\Notes\\NoteData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Notes\\NoteData.cs",
+              "ToolTip": "D:\\Projects\\RhythmSword-Prototype\\Assets\\Scripts\\Notes\\NoteData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Notes\\NoteData.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T06:58:16.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CubeSpawner.cs",
+              "DocumentMoniker": "D:\\Projects\\RhythmSword-Prototype\\Assets\\Scripts\\Spawning\\CubeSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Spawning\\CubeSpawner.cs",
+              "ToolTip": "D:\\Projects\\RhythmSword-Prototype\\Assets\\Scripts\\Spawning\\CubeSpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Spawning\\CubeSpawner.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACAAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T15:17:03.479Z",
               "EditorCaption": ""
             }
           ]
