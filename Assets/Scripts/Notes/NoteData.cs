@@ -18,14 +18,22 @@ public class NoteData
 {
     public DIRECTION direction;
     public COLOR color;
-    public float speed;
+    public double hitTime;
     public int score;
 
     public NoteData()
     {
         direction = DIRECTION.LEFT;
         color = COLOR.RED;
-        speed = 5f;
+        hitTime = 0;
         score = 0;
+    }
+
+    public NoteData(DIRECTION direction, COLOR color, float hitTime)
+    {
+        this.direction = direction;
+        this.color = color;
+        this.hitTime = hitTime;
+        score = 10;
     }
 }

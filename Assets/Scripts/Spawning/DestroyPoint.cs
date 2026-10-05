@@ -6,6 +6,8 @@ public class DestroyPoint : MonoBehaviour
     {
         if (other.CompareTag("Note"))
         {
+            float elapsedTime = other.gameObject.GetComponent<Note>().GetElapsedTime();
+            Debug.Log("Yaþam süresi: " + elapsedTime);
             Destroy(other.gameObject);
         }
     }

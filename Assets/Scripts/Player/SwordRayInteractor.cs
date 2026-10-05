@@ -14,31 +14,40 @@ public class SwordRayInteractor : XRSimpleInteractable
 
         if (interactorName.Contains("Left") && parent.GetComponent<Note>().GetColor() == COLOR.RED)
         {
+            PlayerManager.instance.DebugLogLong(gameObject.name);
+
             if (gameObject.name == parent.GetComponent<Note>().GetDirection().ToString())
             {
-                PlayerManager.instance.AddScore(parent.GetComponent<Note>().GetScore());
+                PlayerManager.instance.AddScore(10);
                 Debug.Log("10-points");
+                PlayerManager.instance.DebugLog("NP::");
             }
             else
             {
                 Debug.Log("Wrong direction::");
+                PlayerManager.instance.DebugLog("Wrong direction::");
             }
         }
         else if(interactorName.Contains("Right") && parent.GetComponent<Note>().GetColor() == COLOR.BLUE)
         {
+            PlayerManager.instance.DebugLogLong(gameObject.name);
+
             if (gameObject.name == parent.GetComponent<Note>().GetDirection().ToString())
             {
-                PlayerManager.instance.AddScore(parent.GetComponent<Note>().GetScore());
+                PlayerManager.instance.AddScore(10);
                 Debug.Log("10-points");
+                PlayerManager.instance.DebugLog("NP::");
             }
             else
             {
                 Debug.Log("Wrong direction::");
+                PlayerManager.instance.DebugLog("Wrong direction::");
             }
         }
         else
         {
             Debug.Log("Wrong color::");
+            PlayerManager.instance.DebugLog("Wrong color::");
         }
 
         Destroy(parent);
