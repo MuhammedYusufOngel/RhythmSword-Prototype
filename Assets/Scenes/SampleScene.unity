@@ -438,7 +438,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ChartPlayer
   audioSource: {fileID: 1522704060}
-  chartFile: {fileID: 4900000, guid: b43509045b9f9174d942c96cd705aa7a, type: 3}
+  chartFile: {fileID: 4900000, guid: a993d71a045f21c4a848ac3fcb6175ae, type: 3}
   notePrefab: {fileID: 3059254979896674829, guid: e2ee927e539e4dc489bc2055811e5ab5, type: 3}
   spawnPoint: {fileID: 1101816830}
   target: {fileID: 2032870952}
@@ -1124,7 +1124,7 @@ AudioSource:
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 0}
-  m_Resource: {fileID: 8300000, guid: 7302b28c4bbbb0149ad853976ae71551, type: 3}
+  m_Resource: {fileID: 8300000, guid: 9ff768e8018fed64c8e5906f107b950a, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
