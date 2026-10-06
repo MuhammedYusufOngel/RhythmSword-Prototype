@@ -1,0 +1,124 @@
+{
+    "songName": "Ride",
+    "bpm": 75.0,
+    "audioClipPath": "Assets/txts/ride.mp3",
+    "notes": [
+        {
+            "time": 7.2139716148376469,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": true
+        },
+        {
+            "time": 8.021343231201172,
+            "direction": "RIGHT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 1.0,
+            "positionY": 0.0,
+            "hasCustomPosition": true
+        },
+        {
+            "time": 8.866578102111817,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": true
+        },
+        {
+            "time": 10.416876792907715,
+            "direction": "UP",
+            "type": "Normal",
+            "color": "BLUE",
+            "positionX": 2.0,
+            "positionY": 0.0,
+            "hasCustomPosition": true
+        },
+        {
+            "time": 11.223196029663086,
+            "direction": "DOWN",
+            "type": "Normal",
+            "color": "BLUE",
+            "positionX": 3.0,
+            "positionY": 0.0,
+            "hasCustomPosition": true
+        },
+        {
+            "time": 12.01069450378418,
+            "direction": "UP",
+            "type": "Normal",
+            "color": "BLUE",
+            "positionX": 2.0,
+            "positionY": 0.0,
+            "hasCustomPosition": true
+        },
+        {
+            "time": 12.820403099060059,
+            "direction": "DOWN",
+            "type": "Normal",
+            "color": "BLUE",
+            "positionX": 2.0,
+            "positionY": 0.0,
+            "hasCustomPosition": true
+        },
+        {
+            "time": 12.822402954101563,
+            "direction": "DOWN",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 3.0,
+            "positionY": 0.0,
+            "hasCustomPosition": true
+        },
+        {
+            "time": 13.634428977966309,
+            "direction": "UP",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": true
+        },
+        {
+            "time": 15.239593505859375,
+            "direction": "DOWN",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 1.0,
+            "positionY": 0.0,
+            "hasCustomPosition": true
+        },
+        {
+            "time": 16.82378578186035,
+            "direction": "RIGHT",
+            "type": "Normal",
+            "color": "BLUE",
+            "positionX": 2.0,
+            "positionY": 0.0,
+            "hasCustomPosition": true
+        },
+        {
+            "time": 17.622318267822267,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "BLUE",
+            "positionX": 3.0,
+            "positionY": 0.0,
+            "hasCustomPosition": true
+        },
+        {
+            "time": 18.419784545898439,
+            "direction": "RIGHT",
+            "type": "Normal",
+            "color": "BLUE",
+            "positionX": 3.0,
+            "positionY": 0.0,
+            "hasCustomPosition": true
+        }
+    ]
+}

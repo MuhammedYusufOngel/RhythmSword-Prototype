@@ -14,6 +14,7 @@ public enum COLOR
     BLUE
 }
 
+[System.Serializable]
 public class NoteData
 {
     public DIRECTION direction;
