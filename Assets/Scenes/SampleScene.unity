@@ -393,6 +393,56 @@ Transform:
   - {fileID: 416086439}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &407674511
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 407674512}
+  - component: {fileID: 407674513}
+  m_Layer: 0
+  m_Name: ChartManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &407674512
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 407674511}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1093321861}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &407674513
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 407674511}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aaaa6823efbbfbf449e36e6be4ffd807, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ChartPlayer
+  audioSource: {fileID: 1522704060}
+  chartFile: {fileID: 4900000, guid: b43509045b9f9174d942c96cd705aa7a, type: 3}
+  notePrefab: {fileID: 3059254979896674829, guid: e2ee927e539e4dc489bc2055811e5ab5, type: 3}
+  spawnPoint: {fileID: 1101816830}
+  target: {fileID: 2032870952}
+  travelTime: 4
 --- !u!1 &416086438
 GameObject:
   m_ObjectHideFlags: 0
@@ -683,6 +733,7 @@ Transform:
   - {fileID: 1639536222}
   - {fileID: 1018116679}
   - {fileID: 1522704059}
+  - {fileID: 407674512}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1101816829
@@ -724,14 +775,14 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1101816829}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 523cb50be40688048875821fd71bfaa5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::CubeSpawner
   note: {fileID: 3059254979896674829, guid: e2ee927e539e4dc489bc2055811e5ab5, type: 3}
   target: {fileID: 2032870952}
-  textFile: {fileID: 4900000, guid: 7ed68c82fb7c27243bda9a084d56c2f6, type: 3}
+  jsonFile: {fileID: 0}
 --- !u!1 &1245676911
 GameObject:
   m_ObjectHideFlags: 0
@@ -1358,7 +1409,7 @@ Transform:
   m_GameObject: {fileID: 2032870951}
   serializedVersion: 2
   m_LocalRotation: {x: -0.7071068, y: 0, z: 0, w: 0.7071068}
-  m_LocalPosition: {x: -0.36, y: 1.11, z: -45.14}
+  m_LocalPosition: {x: -0.36, y: 1.1099969, z: -71.64}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []

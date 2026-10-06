@@ -9,13 +9,13 @@ public class ChartPlayer : MonoBehaviour
     [SerializeField] private GameObject notePrefab;
     [SerializeField] private Transform spawnPoint;
     [SerializeField] private Transform target;
-    [SerializeField] private float travelTime = 4.0f;
+    [SerializeField] private float travelTime = 4.5f;
 
     private ChartData chart;
     private int nextNoteIndex = 0;
     private bool isPlaying = false;
-    
-    private List<float> gridX = new List<float> { -1.4f, -1f, -0.4f, 0f };
+
+    private List<float> gridX = new List<float> { -1.4f, -0.9f, -0.5f, 0f };
     private List<float> gridY = new List<float> { 0.25f, 1f };
 
     private void Start()
@@ -66,8 +66,8 @@ public class ChartPlayer : MonoBehaviour
 
         if (chartNote.hasCustomPosition)
         {
-            x = chartNote.positionX;
-            y = chartNote.positionY;
+            x = gridX[Convert.ToInt32(chartNote.positionX)];
+            y = 1.0f;
         }
         else
         {
