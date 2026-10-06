@@ -4,80 +4,26 @@
     "audioClipPath": "Assets/txts/ride.mp3",
     "notes": [
         {
-            "time": 7.2139716148376469,
-            "direction": "LEFT",
-            "type": "Normal",
-            "color": "RED",
-            "positionX": 0.0,
-            "positionY": 0.0,
-            "hasCustomPosition": true
-        },
-        {
-            "time": 8.021343231201172,
+            "time": 6.400000095367432,
             "direction": "RIGHT",
             "type": "Normal",
             "color": "RED",
-            "positionX": 1.0,
+            "positionX": 0.0,
             "positionY": 0.0,
             "hasCustomPosition": true
         },
         {
-            "time": 8.866578102111817,
+            "time": 7.400000095367432,
             "direction": "LEFT",
             "type": "Normal",
             "color": "RED",
-            "positionX": 0.0,
+            "positionX": 1.0,
             "positionY": 0.0,
             "hasCustomPosition": true
         },
         {
-            "time": 10.416876792907715,
-            "direction": "UP",
-            "type": "Normal",
-            "color": "BLUE",
-            "positionX": 2.0,
-            "positionY": 0.0,
-            "hasCustomPosition": true
-        },
-        {
-            "time": 11.223196029663086,
-            "direction": "DOWN",
-            "type": "Normal",
-            "color": "BLUE",
-            "positionX": 3.0,
-            "positionY": 0.0,
-            "hasCustomPosition": true
-        },
-        {
-            "time": 12.01069450378418,
-            "direction": "UP",
-            "type": "Normal",
-            "color": "BLUE",
-            "positionX": 2.0,
-            "positionY": 0.0,
-            "hasCustomPosition": true
-        },
-        {
-            "time": 12.820403099060059,
-            "direction": "DOWN",
-            "type": "Normal",
-            "color": "BLUE",
-            "positionX": 2.0,
-            "positionY": 0.0,
-            "hasCustomPosition": true
-        },
-        {
-            "time": 12.822402954101563,
-            "direction": "DOWN",
-            "type": "Normal",
-            "color": "RED",
-            "positionX": 3.0,
-            "positionY": 0.0,
-            "hasCustomPosition": true
-        },
-        {
-            "time": 13.634428977966309,
-            "direction": "UP",
+            "time": 8.800000190734864,
+            "direction": "RIGHT",
             "type": "Normal",
             "color": "RED",
             "positionX": 0.0,
@@ -85,20 +31,92 @@
             "hasCustomPosition": true
         },
         {
-            "time": 15.239593505859375,
+            "time": 9.800000190734864,
+            "direction": "DOWN",
+            "type": "Normal",
+            "color": "BLUE",
+            "positionX": 2.0,
+            "positionY": 0.0,
+            "hasCustomPosition": true
+        },
+        {
+            "time": 10.600000381469727,
+            "direction": "UP",
+            "type": "Normal",
+            "color": "BLUE",
+            "positionX": 3.0,
+            "positionY": 0.0,
+            "hasCustomPosition": true
+        },
+        {
+            "time": 11.800000190734864,
+            "direction": "DOWN",
+            "type": "Normal",
+            "color": "BLUE",
+            "positionX": 2.0,
+            "positionY": 0.0,
+            "hasCustomPosition": true
+        },
+        {
+            "time": 12.600000381469727,
+            "direction": "UP",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 3.0,
+            "positionY": 0.0,
+            "hasCustomPosition": true
+        },
+        {
+            "time": 12.600000381469727,
+            "direction": "UP",
+            "type": "Normal",
+            "color": "BLUE",
+            "positionX": 2.0,
+            "positionY": 0.0,
+            "hasCustomPosition": true
+        },
+        {
+            "time": 13.40000057220459,
+            "direction": "UP",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": true
+        },
+        {
+            "time": 14.199999809265137,
             "direction": "DOWN",
             "type": "Normal",
             "color": "RED",
             "positionX": 1.0,
             "positionY": 0.0,
             "hasCustomPosition": true
+        },
+        {
+            "time": 15.0,
+            "direction": "DOWN",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 16.0,
+            "direction": "DOWN",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
         },
         {
             "time": 16.82378578186035,
             "direction": "RIGHT",
             "type": "Normal",
             "color": "BLUE",
-            "positionX": 2.0,
+            "positionX": 1.0,
             "positionY": 0.0,
             "hasCustomPosition": true
         },
@@ -107,7 +125,7 @@
             "direction": "LEFT",
             "type": "Normal",
             "color": "BLUE",
-            "positionX": 3.0,
+            "positionX": 2.0,
             "positionY": 0.0,
             "hasCustomPosition": true
         },
@@ -116,7 +134,376 @@
             "direction": "RIGHT",
             "type": "Normal",
             "color": "BLUE",
+            "positionX": 1.0,
+            "positionY": 0.0,
+            "hasCustomPosition": true
+        },
+        {
+            "time": 19.600000381469728,
+            "direction": "UP",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": true
+        },
+        {
+            "time": 20.399999618530275,
+            "direction": "DOWN",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 1.0,
+            "positionY": 0.0,
+            "hasCustomPosition": true
+        },
+        {
+            "time": 21.200000762939454,
+            "direction": "UP",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": true
+        },
+        {
+            "time": 22.0,
+            "direction": "RIGHT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": true
+        },
+        {
+            "time": 23.200000762939454,
+            "direction": "UP",
+            "type": "Normal",
+            "color": "BLUE",
+            "positionX": 2.0,
+            "positionY": 0.0,
+            "hasCustomPosition": true
+        },
+        {
+            "time": 24.0,
+            "direction": "DOWN",
+            "type": "Normal",
+            "color": "BLUE",
             "positionX": 3.0,
+            "positionY": 0.0,
+            "hasCustomPosition": true
+        },
+        {
+            "time": 25.0,
+            "direction": "UP",
+            "type": "Normal",
+            "color": "BLUE",
+            "positionX": 2.0,
+            "positionY": 0.0,
+            "hasCustomPosition": true
+        },
+        {
+            "time": 26.399999618530275,
+            "direction": "RIGHT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 1.0,
+            "positionY": 0.0,
+            "hasCustomPosition": true
+        },
+        {
+            "time": 26.399999618530275,
+            "direction": "RIGHT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 1.0,
+            "positionY": 0.0,
+            "hasCustomPosition": true
+        },
+        {
+            "time": 27.0,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "BLUE",
+            "positionX": 2.0,
+            "positionY": 0.0,
+            "hasCustomPosition": true
+        },
+        {
+            "time": 27.600000381469728,
+            "direction": "UP",
+            "type": "Normal",
+            "color": "BLUE",
+            "positionX": 2.0,
+            "positionY": 0.0,
+            "hasCustomPosition": true
+        },
+        {
+            "time": 28.200000762939454,
+            "direction": "DOWN",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 1.0,
+            "positionY": 0.0,
+            "hasCustomPosition": true
+        },
+        {
+            "time": 28.80000114440918,
+            "direction": "DOWN",
+            "type": "Normal",
+            "color": "BLUE",
+            "positionX": 2.0,
+            "positionY": 0.0,
+            "hasCustomPosition": true
+        },
+        {
+            "time": 29.80000114440918,
+            "direction": "RIGHT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": true
+        },
+        {
+            "time": 30.600000381469728,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 1.0,
+            "positionY": 0.0,
+            "hasCustomPosition": true
+        },
+        {
+            "time": 31.399999618530275,
+            "direction": "RIGHT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": true
+        },
+        {
+            "time": 32.79999923706055,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "BLUE",
+            "positionX": 2.0,
+            "positionY": 0.0,
+            "hasCustomPosition": true
+        },
+        {
+            "time": 33.400001525878909,
+            "direction": "RIGHT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 1.0,
+            "positionY": 0.0,
+            "hasCustomPosition": true
+        },
+        {
+            "time": 34.0,
+            "direction": "UP",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 1.0,
+            "positionY": 0.0,
+            "hasCustomPosition": true
+        },
+        {
+            "time": 34.60000228881836,
+            "direction": "DOWN",
+            "type": "Normal",
+            "color": "BLUE",
+            "positionX": 2.0,
+            "positionY": 0.0,
+            "hasCustomPosition": true
+        },
+        {
+            "time": 35.20000076293945,
+            "direction": "DOWN",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 1.0,
+            "positionY": 0.0,
+            "hasCustomPosition": true
+        },
+        {
+            "time": 36.20000076293945,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "BLUE",
+            "positionX": 3.0,
+            "positionY": 0.0,
+            "hasCustomPosition": true
+        },
+        {
+            "time": 37.0,
+            "direction": "RIGHT",
+            "type": "Normal",
+            "color": "BLUE",
+            "positionX": 2.0,
+            "positionY": 0.0,
+            "hasCustomPosition": true
+        },
+        {
+            "time": 37.79999923706055,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "BLUE",
+            "positionX": 3.0,
+            "positionY": 0.0,
+            "hasCustomPosition": true
+        },
+        {
+            "time": 37.79999923706055,
+            "direction": "RIGHT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": true
+        },
+        {
+            "time": 39.400001525878909,
+            "direction": "UP",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 2.0,
+            "positionY": 0.0,
+            "hasCustomPosition": true
+        },
+        {
+            "time": 39.400001525878909,
+            "direction": "UP",
+            "type": "Normal",
+            "color": "BLUE",
+            "positionX": 3.0,
+            "positionY": 0.0,
+            "hasCustomPosition": true
+        },
+        {
+            "time": 41.0,
+            "direction": "DOWN",
+            "type": "Normal",
+            "color": "BLUE",
+            "positionX": 3.0,
+            "positionY": 0.0,
+            "hasCustomPosition": true
+        },
+        {
+            "time": 41.0,
+            "direction": "DOWN",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 2.0,
+            "positionY": 0.0,
+            "hasCustomPosition": true
+        },
+        {
+            "time": 42.60000228881836,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "BLUE",
+            "positionX": 3.0,
+            "positionY": 0.0,
+            "hasCustomPosition": true
+        },
+        {
+            "time": 43.400001525878909,
+            "direction": "RIGHT",
+            "type": "Normal",
+            "color": "BLUE",
+            "positionX": 2.0,
+            "positionY": 0.0,
+            "hasCustomPosition": true
+        },
+        {
+            "time": 44.20000076293945,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "BLUE",
+            "positionX": 3.0,
+            "positionY": 0.0,
+            "hasCustomPosition": true
+        },
+        {
+            "time": 45.79999923706055,
+            "direction": "UP",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": true
+        },
+        {
+            "time": 45.79999923706055,
+            "direction": "UP",
+            "type": "Normal",
+            "color": "BLUE",
+            "positionX": 1.0,
+            "positionY": 0.0,
+            "hasCustomPosition": true
+        },
+        {
+            "time": 47.400001525878909,
+            "direction": "DOWN",
+            "type": "Normal",
+            "color": "BLUE",
+            "positionX": 1.0,
+            "positionY": 0.0,
+            "hasCustomPosition": true
+        },
+        {
+            "time": 47.400001525878909,
+            "direction": "DOWN",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": true
+        },
+        {
+            "time": 49.0,
+            "direction": "RIGHT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 1.0,
+            "positionY": 0.0,
+            "hasCustomPosition": true
+        },
+        {
+            "time": 49.79999923706055,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": true
+        },
+        {
+            "time": 50.60000228881836,
+            "direction": "RIGHT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 1.0,
+            "positionY": 0.0,
+            "hasCustomPosition": true
+        },
+        {
+            "time": 51.400001525878909,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "BLUE",
+            "positionX": 3.0,
+            "positionY": 0.0,
+            "hasCustomPosition": true
+        },
+        {
+            "time": 51.400001525878909,
+            "direction": "RIGHT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
             "positionY": 0.0,
             "hasCustomPosition": true
         }

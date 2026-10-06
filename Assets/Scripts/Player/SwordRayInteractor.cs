@@ -6,6 +6,8 @@ using UnityEngine.XR.Interaction.Toolkit.Interactables;
 public class SwordRayInteractor : XRSimpleInteractable
 {
     [SerializeField] GameObject parent;
+    [SerializeField] GameObject cubeBroken;
+
     protected override void OnHoverEntered(HoverEnterEventArgs args)
     {
         base.OnHoverEntered(args);
@@ -48,6 +50,22 @@ public class SwordRayInteractor : XRSimpleInteractable
         {
             Debug.Log("Wrong color::");
             PlayerManager.instance.DebugLog("Wrong color::");
+        }
+
+        if(gameObject.name == "LEFT" || gameObject.name == "RIGHT")
+        {
+            GameObject newCubeBroken = Instantiate(cubeBroken, parent.transform.position, Quaternion.Euler(0f, 0f, 90f));
+            newCubeBroken.transform.GetChild(0).gameObject.GetComponent<MeshRenderer>().material.color = parent.GetComponent<MeshRenderer>().material.color;
+            newCubeBroken.transform.GetChild(1).gameObject.GetComponent<MeshRenderer>().material.color = parent.GetComponent<MeshRenderer>().material.color;
+            Destroy(newCubeBroken, 0.5f);
+        }
+
+        else if (gameObject.name == "UP" || gameObject.name == "DOWN")
+        {
+            GameObject newCubeBroken = Instantiate(cubeBroken, parent.transform.position, Quaternion.Euler(0f, 0f, 0f));
+            newCubeBroken.transform.GetChild(0).gameObject.GetComponent<MeshRenderer>().material.color = parent.GetComponent<MeshRenderer>().material.color;
+            newCubeBroken.transform.GetChild(1).gameObject.GetComponent<MeshRenderer>().material.color = parent.GetComponent<MeshRenderer>().material.color;
+            Destroy(newCubeBroken, 0.5f);
         }
 
         Destroy(parent);
