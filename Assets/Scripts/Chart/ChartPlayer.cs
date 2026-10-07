@@ -71,8 +71,8 @@ public class ChartPlayer : MonoBehaviour
         }
         else
         {
-            x = gridX[UnityEngine.Random.Range(0, gridX.Count)];
-            y = gridY[UnityEngine.Random.Range(0, gridY.Count)];
+            x = gridX[Convert.ToInt32(chartNote.positionX)];
+            y = 1.0f;
         }
 
         Vector3 spawnPos = spawnPoint.position + new Vector3(x, y, 0f);

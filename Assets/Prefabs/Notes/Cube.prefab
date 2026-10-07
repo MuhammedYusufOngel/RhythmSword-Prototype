@@ -443,7 +443,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 194794d64e0bb924286dc800f13792af, type: 2}
+  - {fileID: -876546973899608171, guid: 793298850cfb481428ef110608ba69a2, type: 3}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -497,6 +497,8 @@ MonoBehaviour:
   dir_l: {fileID: 1520137155187139386}
   dir_u: {fileID: 7344592423486300345}
   dir_d: {fileID: 3412166043163640807}
+  red: {fileID: -876546973899608171, guid: 793298850cfb481428ef110608ba69a2, type: 3}
+  blue: {fileID: -876546973899608171, guid: 82dc32c57f4546d4f94fdfb98227d1b4, type: 3}
 --- !u!65 &840469597699918948
 BoxCollider:
   m_ObjectHideFlags: 0

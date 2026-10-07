@@ -22,7 +22,7 @@
             "hasCustomPosition": true
         },
         {
-            "time": 16.80000114440918,
+            "time": 16.788005828857423,
             "direction": "UP",
             "type": "Normal",
             "color": "RED",
@@ -36,15 +36,6 @@
             "type": "Normal",
             "color": "RED",
             "positionX": 1.0,
-            "positionY": 0.0,
-            "hasCustomPosition": true
-        },
-        {
-            "time": 19.80000114440918,
-            "direction": "UP",
-            "type": "Normal",
-            "color": "BLUE",
-            "positionX": 0.0,
             "positionY": 0.0,
             "hasCustomPosition": true
         },
@@ -287,16 +278,16 @@
             "direction": "DOWN",
             "type": "Normal",
             "color": "BLUE",
-            "positionX": 0.0,
+            "positionX": 2.0,
             "positionY": 0.0,
-            "hasCustomPosition": false
+            "hasCustomPosition": true
         },
         {
             "time": 49.0,
             "direction": "DOWN",
             "type": "Normal",
             "color": "RED",
-            "positionX": 2.0,
+            "positionX": 1.0,
             "positionY": 0.0,
             "hasCustomPosition": true
         },
@@ -356,19 +347,19 @@
         },
         {
             "time": 55.79999923706055,
-            "direction": "RIGHT",
+            "direction": "LEFT",
             "type": "Normal",
-            "color": "RED",
-            "positionX": 0.0,
+            "color": "BLUE",
+            "positionX": 3.0,
             "positionY": 0.0,
             "hasCustomPosition": true
         },
         {
             "time": 55.79999923706055,
-            "direction": "LEFT",
+            "direction": "RIGHT",
             "type": "Normal",
-            "color": "BLUE",
-            "positionX": 3.0,
+            "color": "RED",
+            "positionX": 0.0,
             "positionY": 0.0,
             "hasCustomPosition": true
         },
@@ -529,16 +520,16 @@
             "time": 71.80000305175781,
             "direction": "UP",
             "type": "Normal",
-            "color": "BLUE",
-            "positionX": 0.0,
+            "color": "RED",
+            "positionX": 1.0,
             "positionY": 0.0,
-            "hasCustomPosition": false
+            "hasCustomPosition": true
         },
         {
             "time": 71.80000305175781,
             "direction": "UP",
             "type": "Normal",
-            "color": "RED",
+            "color": "BLUE",
             "positionX": 2.0,
             "positionY": 0.0,
             "hasCustomPosition": true
@@ -601,7 +592,7 @@
             "time": 78.20000457763672,
             "direction": "DOWN",
             "type": "Normal",
-            "color": "RED",
+            "color": "BLUE",
             "positionX": 2.0,
             "positionY": 0.0,
             "hasCustomPosition": true
@@ -610,10 +601,10 @@
             "time": 78.20000457763672,
             "direction": "DOWN",
             "type": "Normal",
-            "color": "BLUE",
-            "positionX": 0.0,
+            "color": "RED",
+            "positionX": 1.0,
             "positionY": 0.0,
-            "hasCustomPosition": false
+            "hasCustomPosition": true
         },
         {
             "time": 79.20000457763672,
@@ -716,19 +707,19 @@
         },
         {
             "time": 91.5999984741211,
-            "direction": "RIGHT",
+            "direction": "LEFT",
             "type": "Normal",
-            "color": "RED",
-            "positionX": 0.0,
+            "color": "BLUE",
+            "positionX": 3.0,
             "positionY": 0.0,
             "hasCustomPosition": true
         },
         {
             "time": 91.5999984741211,
-            "direction": "LEFT",
+            "direction": "RIGHT",
             "type": "Normal",
-            "color": "BLUE",
-            "positionX": 3.0,
+            "color": "RED",
+            "positionX": 0.0,
             "positionY": 0.0,
             "hasCustomPosition": true
         },
@@ -826,8 +817,8 @@
             "time": 108.0,
             "direction": "UP",
             "type": "Normal",
-            "color": "BLUE",
-            "positionX": 2.0,
+            "color": "RED",
+            "positionX": 1.0,
             "positionY": 0.0,
             "hasCustomPosition": true
         },
@@ -835,8 +826,8 @@
             "time": 108.0,
             "direction": "UP",
             "type": "Normal",
-            "color": "RED",
-            "positionX": 1.0,
+            "color": "BLUE",
+            "positionX": 2.0,
             "positionY": 0.0,
             "hasCustomPosition": true
         },
@@ -1772,9 +1763,9 @@
             "direction": "DOWN",
             "type": "Normal",
             "color": "RED",
-            "positionX": 0.0,
+            "positionX": 1.0,
             "positionY": 0.0,
-            "hasCustomPosition": false
+            "hasCustomPosition": true
         },
         {
             "time": 210.40000915527345,
@@ -1790,15 +1781,6 @@
             "direction": "UP",
             "type": "Normal",
             "color": "RED",
-            "positionX": 0.0,
-            "positionY": 0.0,
-            "hasCustomPosition": false
-        },
-        {
-            "time": 211.60000610351563,
-            "direction": "DOWN",
-            "type": "Normal",
-            "color": "BLUE",
             "positionX": 2.0,
             "positionY": 0.0,
             "hasCustomPosition": true
@@ -1807,10 +1789,19 @@
             "time": 211.60000610351563,
             "direction": "DOWN",
             "type": "Normal",
-            "color": "RED",
-            "positionX": 0.0,
+            "color": "BLUE",
+            "positionX": 3.0,
             "positionY": 0.0,
-            "hasCustomPosition": false
+            "hasCustomPosition": true
+        },
+        {
+            "time": 211.60000610351563,
+            "direction": "DOWN",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 2.0,
+            "positionY": 0.0,
+            "hasCustomPosition": true
         }
     ]
 }

@@ -10,6 +10,9 @@ public class Note : MonoBehaviour
     [SerializeField] private RawImage dir_l;
     [SerializeField] private RawImage dir_u;
     [SerializeField] private RawImage dir_d;
+
+    [SerializeField] private Material red;
+    [SerializeField] private Material blue;
     float elapsedTime = 0f;
 
     public void Initialize(NoteData noteData)
@@ -47,9 +50,9 @@ public class Note : MonoBehaviour
         }
 
         if (this.noteData.color == COLOR.BLUE)
-            GetComponent<MeshRenderer>().material.color = Color.blue;
+            GetComponent<MeshRenderer>().material = blue;
         else if (this.noteData.color == COLOR.RED)
-            GetComponent<MeshRenderer>().material.color = Color.red;
+            GetComponent<MeshRenderer>().material = red;
     }
 
     void Start()

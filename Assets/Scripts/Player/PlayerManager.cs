@@ -8,6 +8,11 @@ public class PlayerManager : MonoBehaviour
     [SerializeField] TMP_Text left;
     [SerializeField] TMP_Text right;
     [SerializeField] TMP_Text debuglog;
+
+    [SerializeField] AudioSource hitSource;
+    [SerializeField] AudioClip hitSound;
+    [SerializeField] private GameObject hitEffectPrefab;
+
     public int sumScore = 0;
 
     void Start()
@@ -18,10 +23,17 @@ public class PlayerManager : MonoBehaviour
             Destroy(instance);
     }
 
-    public void AddScore(int score)
+    public void AddScore(int score, Transform hitPoint)
     {
         sumScore += score;
         left.text = sumScore.ToString();
+
+        //int sampleRate = hitSource.clip.frequency;
+        //hitSource.pitch = Random.Range(0.9f, 1.2f);
+        //hitSource.timeSamples = Mathf.FloorToInt(0.1f * sampleRate);
+        //hitSource.Play();
+
+        Instantiate(hitEffectPrefab, hitPoint.position, Quaternion.identity);
     }
 
     public void DebugLog(string msg)
