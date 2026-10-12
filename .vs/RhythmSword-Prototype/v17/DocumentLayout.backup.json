@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "G:\\Yusuf-2026\\RhythmSword\\RhythmSword-Prototype\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\Yusuf-2026\\RhythmSword\\RhythmSword-Prototype\\Assets\\Scripts\\Background\\BackgroundSpinner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Background\\BackgroundSpinner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\Yusuf-2026\\RhythmSword\\RhythmSword-Prototype\\Assets\\Scripts\\Player\\PlayerManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Player\\PlayerManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -35,6 +39,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "BackgroundSpinner.cs",
+              "DocumentMoniker": "G:\\Yusuf-2026\\RhythmSword\\RhythmSword-Prototype\\Assets\\Scripts\\Background\\BackgroundSpinner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Background\\BackgroundSpinner.cs",
+              "ToolTip": "G:\\Yusuf-2026\\RhythmSword\\RhythmSword-Prototype\\Assets\\Scripts\\Background\\BackgroundSpinner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Background\\BackgroundSpinner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T14:45:51.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "PlayerManager.cs",
               "DocumentMoniker": "G:\\Yusuf-2026\\RhythmSword\\RhythmSword-Prototype\\Assets\\Scripts\\Player\\PlayerManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerManager.cs",
@@ -47,7 +64,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Note.cs",
               "DocumentMoniker": "G:\\Yusuf-2026\\RhythmSword\\RhythmSword-Prototype\\Assets\\Scripts\\Notes\\Note.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Notes\\Note.cs",
@@ -55,12 +72,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Notes\\Note.cs",
               "ViewState": "AgIAACQAAAAAAAAAAAAAADUAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-06T11:52:03.69Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-06T11:52:03.69Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "CubeSpawner.cs",
               "DocumentMoniker": "G:\\Yusuf-2026\\RhythmSword\\RhythmSword-Prototype\\Assets\\Scripts\\Spawning\\CubeSpawner.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Spawning\\CubeSpawner.cs",
@@ -72,7 +88,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ChartPlayer.cs",
               "DocumentMoniker": "G:\\Yusuf-2026\\RhythmSword\\RhythmSword-Prototype\\Assets\\Scripts\\Chart\\ChartPlayer.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Chart\\ChartPlayer.cs",
@@ -80,12 +96,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Chart\\ChartPlayer.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAACkAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-06T11:45:34.926Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-06T11:45:34.926Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "SwordRayInteractor.cs",
               "DocumentMoniker": "G:\\Yusuf-2026\\RhythmSword\\RhythmSword-Prototype\\Assets\\Scripts\\Player\\SwordRayInteractor.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\SwordRayInteractor.cs",
@@ -93,8 +108,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Player\\SwordRayInteractor.cs",
               "ViewState": "AgIAADkAAAAAAAAAAAAAAEsAAAB3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-06T11:40:23.437Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-06T11:40:23.437Z"
             }
           ]
         }

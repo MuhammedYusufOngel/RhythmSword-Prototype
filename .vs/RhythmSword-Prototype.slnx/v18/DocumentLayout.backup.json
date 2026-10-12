@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\RhythmSword-Prototype\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\projects\\rhythmsword-prototype\\assets\\scripts\\background\\timedwallbreaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\background\\timedwallbreaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\projects\\rhythmsword-prototype\\assets\\scripts\\background\\wallsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\background\\wallsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TimedWallBreaker.cs",
+              "DocumentMoniker": "D:\\Projects\\RhythmSword-Prototype\\Assets\\Scripts\\Background\\TimedWallBreaker.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Background\\TimedWallBreaker.cs",
+              "ToolTip": "D:\\Projects\\RhythmSword-Prototype\\Assets\\Scripts\\Background\\TimedWallBreaker.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Background\\TimedWallBreaker.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAwAwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T11:26:02.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WallSystem.cs",
+              "DocumentMoniker": "D:\\Projects\\RhythmSword-Prototype\\Assets\\Scripts\\Background\\WallSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Background\\WallSystem.cs",
+              "ToolTip": "D:\\Projects\\RhythmSword-Prototype\\Assets\\Scripts\\Background\\WallSystem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Background\\WallSystem.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA1wBUAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T11:56:49.228Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

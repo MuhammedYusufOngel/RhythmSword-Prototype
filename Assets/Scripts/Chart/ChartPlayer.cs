@@ -16,6 +16,7 @@ public class ChartPlayer : MonoBehaviour
     private bool isPlaying = false;
 
     private List<float> gridX = new List<float> { -1.4f, -0.9f, -0.5f, 0f };
+    private List<float> gridX_city = new List<float> { -1f, -0.3f, 0.3f, 1f };
     private List<float> gridY = new List<float> { 0.25f, 1f };
 
     private void Start()
@@ -66,12 +67,12 @@ public class ChartPlayer : MonoBehaviour
 
         if (chartNote.hasCustomPosition)
         {
-            x = gridX[Convert.ToInt32(chartNote.positionX)];
+            x = gridX_city[Convert.ToInt32(chartNote.positionX)];
             y = 1.0f;
         }
         else
         {
-            x = gridX[Convert.ToInt32(chartNote.positionX)];
+            x = gridX_city[Convert.ToInt32(chartNote.positionX)];
             y = 1.0f;
         }
 
