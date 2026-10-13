@@ -61,7 +61,7 @@ public class SwordRayInteractor : XRSimpleInteractable
             newCubeBroken.transform.GetChild(0).gameObject.GetComponent<MeshRenderer>().material = parent.GetComponent<MeshRenderer>().material;
             newCubeBroken.transform.GetChild(1).gameObject.GetComponent<MeshRenderer>().material = parent.GetComponent<MeshRenderer>().material;
 
-            newCubeBroken.transform.GetChild(0).gameObject.GetComponent<Rigidbody>().AddForce((-Vector3.right * randomForce) + (Vector3.down * randomForce), ForceMode.Impulse);
+            newCubeBroken.transform.GetChild(0).gameObject.GetComponent<Rigidbody>().AddForce(Vector3.left * randomForce + (Vector3.up * randomForce), ForceMode.Impulse);
             newCubeBroken.transform.GetChild(1).gameObject.GetComponent<Rigidbody>().AddForce(Vector3.right * randomForce + (Vector3.down * randomForce), ForceMode.Impulse);
             Destroy(newCubeBroken, 0.5f);
         }
@@ -73,7 +73,7 @@ public class SwordRayInteractor : XRSimpleInteractable
             newCubeBroken.transform.GetChild(1).gameObject.GetComponent<MeshRenderer>().material = parent.GetComponent<MeshRenderer>().material;
 
             newCubeBroken.transform.GetChild(0).gameObject.GetComponent<Rigidbody>().AddForce(Vector3.up * randomForce + (Vector3.left * randomForce), ForceMode.Impulse);
-            newCubeBroken.transform.GetChild(1).gameObject.GetComponent<Rigidbody>().AddForce(-Vector3.up * randomForce + (Vector3.right * randomForce), ForceMode.Impulse);
+            newCubeBroken.transform.GetChild(1).gameObject.GetComponent<Rigidbody>().AddForce(Vector3.down * randomForce + (Vector3.right * randomForce), ForceMode.Impulse);
 
             Destroy(newCubeBroken, 0.5f);
         }

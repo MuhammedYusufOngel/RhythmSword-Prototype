@@ -16,8 +16,8 @@ public class ChartPlayer : MonoBehaviour
     private bool isPlaying = false;
 
     private List<float> gridX = new List<float> { -1.4f, -0.9f, -0.5f, 0f };
-    private List<float> gridX_city = new List<float> { -1f, -0.3f, 0.3f, 1f };
-    private List<float> gridY = new List<float> { 0.25f, 1f };
+    //private List<float> gridX_city = new List<float> { -0.7f, -0.2f, 0.2f, 0.7f };
+    private List<float> gridY = new List<float> { 1f, 1.4f };
 
     private void Start()
     {
@@ -67,13 +67,13 @@ public class ChartPlayer : MonoBehaviour
 
         if (chartNote.hasCustomPosition)
         {
-            x = gridX_city[Convert.ToInt32(chartNote.positionX)];
-            y = 1.0f;
+            x = gridX[Convert.ToInt32(chartNote.positionX)];
+            y = gridY[Convert.ToInt32(chartNote.positionY)];
         }
         else
         {
-            x = gridX_city[Convert.ToInt32(chartNote.positionX)];
-            y = 1.0f;
+            x = gridX[Convert.ToInt32(chartNote.positionX)];
+            y = gridY[Convert.ToInt32(chartNote.positionY)];
         }
 
         Vector3 spawnPos = spawnPoint.position + new Vector3(x, y, 0f);

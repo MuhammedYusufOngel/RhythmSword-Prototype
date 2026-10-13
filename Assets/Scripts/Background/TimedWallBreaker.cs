@@ -24,7 +24,7 @@ public class TimedWallBreaker : MonoBehaviour
     [Header("Particle Prefab")]
     [SerializeField] private ParticleSystem dustEffectPrefab;
 
-    private float[] timeThatWallWillBroken = new float[5] { 85f, 146f ,249f, 270f, 10000f };
+    private float[] timeThatWallWillBroken = new float[5] { 85f, 61f, 103f, 21f, 10000f };
 
     void Start()
     {
