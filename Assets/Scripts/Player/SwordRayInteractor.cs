@@ -58,8 +58,8 @@ public class SwordRayInteractor : XRSimpleInteractable
         if(gameObject.name == "LEFT" || gameObject.name == "RIGHT")
         {
             GameObject newCubeBroken = Instantiate(cubeBroken, parent.transform.position, Quaternion.Euler(0f, 0f, 90f));
-            newCubeBroken.transform.GetChild(0).gameObject.GetComponent<MeshRenderer>().material = parent.GetComponent<MeshRenderer>().material;
-            newCubeBroken.transform.GetChild(1).gameObject.GetComponent<MeshRenderer>().material = parent.GetComponent<MeshRenderer>().material;
+            newCubeBroken.transform.GetChild(0).gameObject.GetComponent<MeshRenderer>().material = parent.transform.GetChild(5).transform.GetChild(0).GetComponent<MeshRenderer>().material;
+            newCubeBroken.transform.GetChild(1).gameObject.GetComponent<MeshRenderer>().material = parent.transform.GetChild(5).transform.GetChild(0).GetComponent<MeshRenderer>().material;
 
             newCubeBroken.transform.GetChild(0).gameObject.GetComponent<Rigidbody>().AddForce(Vector3.left * randomForce + (Vector3.up * randomForce), ForceMode.Impulse);
             newCubeBroken.transform.GetChild(1).gameObject.GetComponent<Rigidbody>().AddForce(Vector3.right * randomForce + (Vector3.down * randomForce), ForceMode.Impulse);
@@ -69,8 +69,8 @@ public class SwordRayInteractor : XRSimpleInteractable
         else if (gameObject.name == "UP" || gameObject.name == "DOWN")
         {
             GameObject newCubeBroken = Instantiate(cubeBroken, parent.transform.position, Quaternion.Euler(0f, 0f, 0f));
-            newCubeBroken.transform.GetChild(0).gameObject.GetComponent<MeshRenderer>().material = parent.GetComponent<MeshRenderer>().material;
-            newCubeBroken.transform.GetChild(1).gameObject.GetComponent<MeshRenderer>().material = parent.GetComponent<MeshRenderer>().material;
+            newCubeBroken.transform.GetChild(0).gameObject.GetComponent<MeshRenderer>().material = parent.transform.GetChild(5).transform.GetChild(0).GetComponent<MeshRenderer>().material;
+            newCubeBroken.transform.GetChild(1).gameObject.GetComponent<MeshRenderer>().material = parent.transform.GetChild(5).transform.GetChild(0).GetComponent<MeshRenderer>().material;
 
             newCubeBroken.transform.GetChild(0).gameObject.GetComponent<Rigidbody>().AddForce(Vector3.up * randomForce + (Vector3.left * randomForce), ForceMode.Impulse);
             newCubeBroken.transform.GetChild(1).gameObject.GetComponent<Rigidbody>().AddForce(Vector3.down * randomForce + (Vector3.right * randomForce), ForceMode.Impulse);

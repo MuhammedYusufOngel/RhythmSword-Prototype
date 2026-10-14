@@ -12,6 +12,6 @@ public class NoteMovement : MonoBehaviour
 
     void Update()
     {
-        transform.position = Vector3.MoveTowards(transform.position, target.position, speed * Time.deltaTime);
+        transform.position += new Vector3(0f, 0f, -speed * Time.deltaTime);
     }
 }
