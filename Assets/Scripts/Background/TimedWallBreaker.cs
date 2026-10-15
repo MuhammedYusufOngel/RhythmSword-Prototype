@@ -9,7 +9,7 @@ public class TimedWallBreaker : MonoBehaviour
     public class WallSection
     {
         public string sectionName = "Bölüm";
-        [HideInInspector] public List<Rigidbody> pieces = new List<Rigidbody>();
+        [HideInInspector] public List<GameObject> pieces = new List<GameObject>();
     }
     [Header("Wall_Parts")]
     [SerializeField] private WallSection[] wallSections = new WallSection[4];
@@ -25,57 +25,47 @@ public class TimedWallBreaker : MonoBehaviour
 
     public void CreateWallPartition()
     {
-        Rigidbody[] bricks = GetComponentsInChildren<Rigidbody>();
-        if (bricks.Length == 0) return;
+        GameObject[] bricks = new GameObject[672];
+        
+        for(int i = 0; i < transform.childCount; i++)
+        {
+            bricks[i] = transform.GetChild(i).gameObject;
+        }
+
+        if (bricks.Length == 0)
+        {
+            Debug.Log("Burada hiçbir şey yok..");
+            return;
+        }
 
         float minX = float.MaxValue;
         float maxX = float.MinValue;
-        float minY = float.MaxValue;
-        float maxY = float.MinValue;
 
         foreach (var t in bricks)
         {
             float x = t.transform.position.x;
-            float y = t.transform.position.y;
 
             if (x < minX) minX = x;
             if (x > maxX) maxX = x;
-            if (y < minY) minY = y;
-            if (y > maxY) maxY = y;
         }
 
         float width = maxX - minX;
-        float height = maxY - minY;
 
         foreach (var t in bricks)
         {
             float normalizeX = (t.transform.position.x - minX) / width;
-            float normalizeY = (t.transform.position.y - minY) / height;
 
             float randomX = Mathf.Clamp01(normalizeX + Random.Range(-0.04f, 0.04f));
-            float randomY = Mathf.Clamp01(normalizeY + Random.Range(-0.04f, 0.04f));
 
-            t.isKinematic = true;
-            t.useGravity = true;
+            t.GetComponent<Rigidbody>().isKinematic = true;
+            t.GetComponent<Rigidbody>().useGravity = true;
 
             if (randomX < 0.25f)
                 wallSections[0].pieces.Add(t);
+            else if (randomX < 0.5f)
+                wallSections[2].pieces.Add(t);
             else if (randomX < 0.75f)
-            {
-                if(randomY < 0.25f)
-                    wallSections[2].pieces.Add(t);
-                else if(randomY < 0.5f)
-                    wallSections[3].pieces.Add(t);
-                else if(randomY < 0.75f)
-                {
-                    if(randomX < 0.65f)
-                        wallSections[3].pieces.Add(t);
-                    else
-                        wallSections[1].pieces.Add(t);
-                }
-                else
-                    wallSections[2].pieces.Add(t);
-            }
+                wallSections[3].pieces.Add(t);
             else
                 wallSections[1].pieces.Add(t);
         }
@@ -83,21 +73,6 @@ public class TimedWallBreaker : MonoBehaviour
 
     void Start()
     {
-        //for (int i = 0; i < wallSections.Length; i++)
-        //{
-        //    if (wallSections[i].sectionParent != null)
-        //    {
-        //        Rigidbody[] rbs = wallSections[i].sectionParent.GetComponentsInChildren<Rigidbody>();
-        //        foreach (Rigidbody rb in rbs)
-        //        {
-        //            rb.isKinematic = true;
-        //            rb.useGravity = true;
-
-        //            wallSections[i].pieces.Add(rb);
-        //        }
-        //    }
-        //}
-
         CreateWallPartition();
 
         StartCoroutine(BreakWallRoutine());
@@ -120,19 +95,20 @@ public class TimedWallBreaker : MonoBehaviour
 
         WallSection section = wallSections[sectionIndex];
 
-        foreach (Rigidbody rb in section.pieces)
+        foreach (GameObject @object in section.pieces)
         {
-            if (rb == null) continue;
+            if (@object == null) continue;
 
-            Debug.Log("Buraya girdi...");
-            rb.isKinematic = false;
+            @object.GetComponent<Rigidbody>().isKinematic = false;
 
-            rb.AddForce(Vector3.left * forwardForce, ForceMode.Impulse);
-            rb.AddTorque(Random.insideUnitSphere * 1.5f, ForceMode.Impulse);
+            @object.GetComponent<Rigidbody>().AddForce(Vector3.left * forwardForce, ForceMode.Impulse);
+            @object.GetComponent<Rigidbody>().AddTorque(Random.insideUnitSphere * 1.5f, ForceMode.Impulse);
+
+            Destroy(@object, 5.0f);
             
             if (dustEffectPrefab != null)
             {
-                Instantiate(dustEffectPrefab, rb.transform.position, Quaternion.identity);
+                Instantiate(dustEffectPrefab, @object.transform.position, Quaternion.identity);
             }
         }
     }

@@ -11,6 +11,9 @@ public class PlayerManager : MonoBehaviour
 
     [SerializeField] AudioSource hitSource;
     [SerializeField] AudioClip hitClip;
+
+    [SerializeField] AudioSource missSource;
+    [SerializeField] AudioClip missClip;
     [SerializeField] private GameObject hitEffectPrefab;
 
     public int sumScore = 0;
@@ -32,6 +35,11 @@ public class PlayerManager : MonoBehaviour
         hitSource.PlayOneShot(hitClip);
 
         Instantiate(hitEffectPrefab, hitPoint.position, Quaternion.identity);
+    }
+
+    public void WrongDirOrColor()
+    {
+        missSource.PlayOneShot(missClip);
     }
 
     public void DebugLog(string msg)
