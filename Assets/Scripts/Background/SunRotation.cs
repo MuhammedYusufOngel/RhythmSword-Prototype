@@ -7,7 +7,7 @@ public class SunRotation : MonoBehaviour
 
     void Start()
     {
-        timeChangingRotation = 90f / timeAccordingToSong;
+        timeChangingRotation = 110f / timeAccordingToSong;
     }
 
     void Update()

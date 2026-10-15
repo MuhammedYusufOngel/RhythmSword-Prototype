@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "D:\\Projects\\RhythmSword-Prototype\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\projects\\rhythmsword-prototype\\assets\\scripts\\player\\playermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\projects\\rhythmsword-prototype\\assets\\scripts\\chart\\chartplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\chart\\chartplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\projects\\rhythmsword-prototype\\assets\\scripts\\spawning\\cubespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spawning\\cubespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\projects\\rhythmsword-prototype\\assets\\scripts\\background\\timedwallbreaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\background\\timedwallbreaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,25 +35,64 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "PlayerManager.cs",
+              "DocumentMoniker": "D:\\Projects\\RhythmSword-Prototype\\Assets\\Scripts\\Player\\PlayerManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerManager.cs",
+              "ToolTip": "D:\\Projects\\RhythmSword-Prototype\\Assets\\Scripts\\Player\\PlayerManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T14:43:51.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChartPlayer.cs",
+              "DocumentMoniker": "D:\\Projects\\RhythmSword-Prototype\\Assets\\Scripts\\Chart\\ChartPlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Chart\\ChartPlayer.cs",
+              "ToolTip": "D:\\Projects\\RhythmSword-Prototype\\Assets\\Scripts\\Chart\\ChartPlayer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Chart\\ChartPlayer.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAA2wEYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T14:21:47.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CubeSpawner.cs",
+              "DocumentMoniker": "D:\\Projects\\RhythmSword-Prototype\\Assets\\Scripts\\Spawning\\CubeSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Spawning\\CubeSpawner.cs",
+              "ToolTip": "D:\\Projects\\RhythmSword-Prototype\\Assets\\Scripts\\Spawning\\CubeSpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Spawning\\CubeSpawner.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T14:18:46.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "TimedWallBreaker.cs",
               "DocumentMoniker": "D:\\Projects\\RhythmSword-Prototype\\Assets\\Scripts\\Background\\TimedWallBreaker.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Background\\TimedWallBreaker.cs",
               "ToolTip": "D:\\Projects\\RhythmSword-Prototype\\Assets\\Scripts\\Background\\TimedWallBreaker.cs",
               "RelativeToolTip": "Assets\\Scripts\\Background\\TimedWallBreaker.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAAwAwAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAYwEMAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-11T11:26:02.154Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "WallSystem.cs",
               "DocumentMoniker": "D:\\Projects\\RhythmSword-Prototype\\Assets\\Scripts\\Background\\WallSystem.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Background\\WallSystem.cs",
               "ToolTip": "D:\\Projects\\RhythmSword-Prototype\\Assets\\Scripts\\Background\\WallSystem.cs",
               "RelativeToolTip": "Assets\\Scripts\\Background\\WallSystem.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAA1wBUAAABeAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBUAAABeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-10T11:56:49.228Z",
               "EditorCaption": ""

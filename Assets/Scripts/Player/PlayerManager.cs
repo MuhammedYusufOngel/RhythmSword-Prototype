@@ -10,6 +10,7 @@ public class PlayerManager : MonoBehaviour
     //[SerializeField] TMP_Text debuglog;
 
     [SerializeField] AudioSource hitSource;
+    [SerializeField] AudioClip hitClip;
     [SerializeField] private GameObject hitEffectPrefab;
 
     public int sumScore = 0;
@@ -28,7 +29,7 @@ public class PlayerManager : MonoBehaviour
         scoreTxt.text = sumScore.ToString();
 
         hitSource.pitch = Random.Range(0.9f, 1.2f);
-        hitSource.Play();
+        hitSource.PlayOneShot(hitClip);
 
         Instantiate(hitEffectPrefab, hitPoint.position, Quaternion.identity);
     }
