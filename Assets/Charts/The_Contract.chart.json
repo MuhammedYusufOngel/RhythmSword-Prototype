@@ -1,0 +1,2419 @@
+{
+    "songName": "The_Contract",
+    "bpm": 135.0,
+    "audioClipPath": "Assets/Sounds/The Contract - twenty one pilots (128k).mp3",
+    "notes": [
+        {
+            "time": 9.333333015441895,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 10.44444465637207,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 12.0,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 12.88888931274414,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 13.777777671813965,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 14.44444465637207,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 15.111111640930176,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 16.44444465637207,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 17.11111068725586,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 17.55555534362793,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 18.0,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 18.88888931274414,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 19.55555534362793,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 20.22222328186035,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 20.66666603088379,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 21.11111068725586,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 22.0,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 22.66666603088379,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 23.11111068725586,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 23.55555534362793,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 24.44444465637207,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 25.11111068725586,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 26.44444465637207,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 27.33333396911621,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 28.22222328186035,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 28.88888931274414,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 29.55555534362793,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 30.44444465637207,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 34.22222137451172,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 38.22222137451172,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 39.11111068725586,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 40.66666793823242,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 41.11111068725586,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 42.66666793823242,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 42.88888931274414,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 43.33333206176758,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 44.0,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 44.88888931274414,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 48.4444465637207,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 52.22222137451172,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 53.33333206176758,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 54.0,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 55.11111068725586,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 56.88888931274414,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 57.11111068725586,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 58.0,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 60.88888931274414,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 61.33333206176758,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 62.22222137451172,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 62.88888931274414,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 63.55555725097656,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 64.0,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 64.8888931274414,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 65.55555725097656,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 66.0,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 66.44444274902344,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 66.8888931274414,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 67.33333587646485,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 67.77777862548828,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 68.22222137451172,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 69.11111450195313,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 69.77777862548828,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 70.66666412353516,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 71.11111450195313,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 71.55555725097656,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 72.0,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 73.33333587646485,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 73.77777862548828,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 74.22222137451172,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 74.66666412353516,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 75.11111450195313,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 75.55555725097656,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 76.0,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 76.44444274902344,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 76.8888931274414,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 77.55555725097656,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 78.0,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 78.44444274902344,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 79.11111450195313,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 79.77777862548828,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 80.44444274902344,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 80.8888931274414,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 81.33333587646485,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 81.77777862548828,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 82.22222137451172,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 83.33333587646485,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 84.0,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 84.44444274902344,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 84.66666412353516,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 85.11111450195313,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 85.77777862548828,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 86.44444274902344,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 87.33333587646485,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 88.22222137451172,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 88.8888931274414,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 90.0,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 91.11111450195313,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 92.0,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 92.66666412353516,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 93.55555725097656,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 94.8888931274414,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 96.0,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 97.55555725097656,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 98.0,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 99.77777862548828,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 100.22222137451172,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 100.66666412353516,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 101.55555725097656,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 102.0,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 102.44444274902344,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 102.66666412353516,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 103.11111450195313,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 103.55555725097656,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 104.0,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 104.44444274902344,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 104.8888931274414,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 105.11111450195313,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 105.55555725097656,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 106.0,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 106.66666412353516,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 107.11111450195313,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 107.55555725097656,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 108.0,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 108.44444274902344,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 109.33333587646485,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 110.44444274902344,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 110.8888931274414,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 111.11111450195313,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 111.55555725097656,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 112.0,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 112.44444274902344,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 114.0,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 114.44444274902344,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 114.66666412353516,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 115.11111450195313,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 116.0,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 116.8888931274414,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 117.33333587646485,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 117.77777862548828,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 118.22222137451172,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 119.11111450195313,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 119.33333587646485,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 120.66666412353516,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 120.8888931274414,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 121.33333587646485,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 122.22222137451172,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 122.8888931274414,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 123.77777862548828,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 124.66666412353516,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 125.55555725097656,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 126.44444274902344,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 129.11111450195313,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 129.3333282470703,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 129.55555725097657,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 129.7777862548828,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 130.6666717529297,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 131.11111450195313,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 132.6666717529297,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 133.11111450195313,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 133.55555725097657,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 136.0,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 136.44444274902345,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 136.88888549804688,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 138.22222900390626,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 139.55555725097657,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 140.0,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 140.44444274902345,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 140.88888549804688,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 143.11111450195313,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 143.55555725097657,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 144.0,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 148.0,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 148.22222900390626,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 148.6666717529297,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 149.3333282470703,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 150.0,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 150.44444274902345,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 150.88888549804688,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 151.55555725097657,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 151.7777862548828,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 152.22222900390626,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 152.88888549804688,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 153.3333282470703,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 154.6666717529297,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 155.3333282470703,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 155.7777862548828,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 156.44444274902345,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 156.88888549804688,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 157.55555725097657,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 158.6666717529297,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 158.88888549804688,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 159.11111450195313,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 159.7777862548828,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 160.0,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 160.44444274902345,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 160.6666717529297,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 160.88888549804688,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 161.3333282470703,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 161.55555725097657,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 162.22222900390626,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 162.44444274902345,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 162.6666717529297,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 163.11111450195313,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 163.3333282470703,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 163.7777862548828,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 164.0,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 164.22222900390626,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 164.88888549804688,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 165.11111450195313,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 165.3333282470703,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 166.0,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 167.3333282470703,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 169.3333282470703,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 170.88888549804688,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 173.11111450195313,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 174.0,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 176.0,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 179.7777862548828,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 180.44444274902345,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 180.6666717529297,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 181.3333282470703,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 181.7777862548828,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 182.44444274902345,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 183.3333282470703,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 184.0,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 184.44444274902345,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 184.88888549804688,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 185.3333282470703,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 186.0,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 186.22222900390626,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 187.11111450195313,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 188.44444274902345,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 188.88888549804688,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 189.11111450195313,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 189.7777862548828,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 190.22222900390626,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 190.6666717529297,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 192.0,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 192.44444274902345,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 192.6666717529297,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 193.3333282470703,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 195.55555725097657,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 195.7777862548828,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 196.0,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 196.88888549804688,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 199.3333282470703,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 199.55555725097657,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 199.7777862548828,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 200.44444274902345,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 201.7777862548828,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 202.88888549804688,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 203.11111450195313,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 203.55555725097657,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 204.22222900390626,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 204.44444274902345,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 204.6666717529297,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 206.44444274902345,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 206.6666717529297,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 206.88888549804688,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 207.55555725097657,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 209.3333282470703,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 210.6666717529297,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 212.6666717529297,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 214.44444274902345,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 216.0,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 218.0,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 219.7777862548828,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        },
+        {
+            "time": 221.55555725097657,
+            "direction": "LEFT",
+            "type": "Normal",
+            "color": "RED",
+            "positionX": 0.0,
+            "positionY": 0.0,
+            "hasCustomPosition": false
+        }
+    ]
+}
