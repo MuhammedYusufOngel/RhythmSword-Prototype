@@ -354,7 +354,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 130551273996473474, guid: f0ce0ec7fc610ed41a1fc8818b54e33a, type: 3}
       propertyPath: m_Volume
-      value: 0.4
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2656216553813438327, guid: f0ce0ec7fc610ed41a1fc8818b54e33a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2834,6 +2834,10 @@ PrefabInstance:
       propertyPath: chartFile
       value: 
       objectReference: {fileID: 4900000, guid: 75300f7a7509d744c9ce2f71f755d221, type: 3}
+    - target: {fileID: 5733007835578540648, guid: 7fcb384a517d7b548b2725083f3a5ea5, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 28.085
+      objectReference: {fileID: 0}
     - target: {fileID: 7629618158551413286, guid: 7fcb384a517d7b548b2725083f3a5ea5, type: 3}
       propertyPath: m_Resource
       value: 

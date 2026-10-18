@@ -65,15 +65,15 @@ public class ChartPlayer : MonoBehaviour
         float x = 0f;
         float y = 0f;
 
-        if (chartNote.hasCustomPosition)
+        if (chartNote.hasCustomPosition && chartNote.positionX < 4 && chartNote.positionY < 2)
         {
             x = gridX[Convert.ToInt32(chartNote.positionX)];
             y = gridY[Convert.ToInt32(chartNote.positionY)];
         }
         else
         {
-            x = gridX[Convert.ToInt32(chartNote.positionX)];
-            y = gridY[Convert.ToInt32(chartNote.positionY)];
+            x = gridX[0];
+            y = gridY[0];
         }
 
         Vector3 spawnPos = spawnPoint.position + new Vector3(x, y, 0f);

@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\Projects\\Rhyt\\RhythmSword-Prototype\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\projects\\rhyt\\rhythmsword-prototype\\assets\\scripts\\chart\\chartplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\chart\\chartplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\projects\\rhyt\\rhythmsword-prototype\\assets\\scripts\\player\\misspoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\misspoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\projects\\rhyt\\rhythmsword-prototype\\assets\\scripts\\player\\playermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\projects\\rhyt\\rhythmsword-prototype\\assets\\scripts\\chart\\chartplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\chart\\chartplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\projects\\rhyt\\rhythmsword-prototype\\assets\\scripts\\spawning\\cubespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,11 +38,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MissPoint.cs",
               "DocumentMoniker": "D:\\Projects\\Rhyt\\RhythmSword-Prototype\\Assets\\Scripts\\Player\\MissPoint.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\MissPoint.cs",
@@ -63,12 +63,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Background\\SunRotation.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-15T05:14:35.666Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-15T05:14:35.666Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "PlayerManager.cs",
               "DocumentMoniker": "D:\\Projects\\Rhyt\\RhythmSword-Prototype\\Assets\\Scripts\\Player\\PlayerManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerManager.cs",
@@ -76,18 +75,17 @@
               "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerManager.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAcwB8AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-12T14:43:51.152Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-12T14:43:51.152Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "ChartPlayer.cs",
               "DocumentMoniker": "D:\\Projects\\Rhyt\\RhythmSword-Prototype\\Assets\\Scripts\\Chart\\ChartPlayer.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Chart\\ChartPlayer.cs",
               "ToolTip": "D:\\Projects\\Rhyt\\RhythmSword-Prototype\\Assets\\Scripts\\Chart\\ChartPlayer.cs",
               "RelativeToolTip": "Assets\\Scripts\\Chart\\ChartPlayer.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAUwEYAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAADEAAAAAAAAAAAAUwEIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-12T14:21:47.58Z",
               "EditorCaption": ""
@@ -102,8 +100,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Spawning\\CubeSpawner.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-12T14:18:46.347Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-12T14:18:46.347Z"
             },
             {
               "$type": "Document",
@@ -115,8 +112,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Background\\TimedWallBreaker.cs",
               "ViewState": "AgIAADEAAAAAAAAAAAAYwCsAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-11T11:26:02.154Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-11T11:26:02.154Z"
             },
             {
               "$type": "Document",
