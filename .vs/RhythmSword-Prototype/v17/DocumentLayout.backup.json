@@ -3,40 +3,16 @@
   "WorkspaceRootPath": "G:\\Yusuf-2026\\RhythmSword\\RhythmSword-Prototype\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6A88C0D8-C2A4-B5F1-0135-B99A1BC5F39A}|Assembly-CSharp.csproj|g:\\yusuf-2026\\rhythmsword\\rhythmsword-prototype\\assets\\scripts\\background\\timedwallbreaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A88C0D8-C2A4-B5F1-0135-B99A1BC5F39A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\background\\timedwallbreaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6A88C0D8-C2A4-B5F1-0135-B99A1BC5F39A}|Assembly-CSharp.csproj|g:\\yusuf-2026\\rhythmsword\\rhythmsword-prototype\\assets\\scripts\\player\\swordrayinteractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A88C0D8-C2A4-B5F1-0135-B99A1BC5F39A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\swordrayinteractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A88C0D8-C2A4-B5F1-0135-B99A1BC5F39A}|Assembly-CSharp.csproj|G:\\Yusuf-2026\\RhythmSword\\RhythmSword-Prototype\\assets\\scripts\\ezyslice\\slicer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A88C0D8-C2A4-B5F1-0135-B99A1BC5F39A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ezyslice\\slicer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6A88C0D8-C2A4-B5F1-0135-B99A1BC5F39A}|Assembly-CSharp.csproj|G:\\Yusuf-2026\\RhythmSword\\RhythmSword-Prototype\\assets\\scripts\\player\\playermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6A88C0D8-C2A4-B5F1-0135-B99A1BC5F39A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6A88C0D8-C2A4-B5F1-0135-B99A1BC5F39A}|Assembly-CSharp.csproj|G:\\Yusuf-2026\\RhythmSword\\RhythmSword-Prototype\\assets\\scripts\\player\\swordrayinteractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A88C0D8-C2A4-B5F1-0135-B99A1BC5F39A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\swordrayinteractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6A88C0D8-C2A4-B5F1-0135-B99A1BC5F39A}|Assembly-CSharp.csproj|G:\\Yusuf-2026\\RhythmSword\\RhythmSword-Prototype\\assets\\scripts\\background\\sunrotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A88C0D8-C2A4-B5F1-0135-B99A1BC5F39A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\background\\sunrotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6A88C0D8-C2A4-B5F1-0135-B99A1BC5F39A}|Assembly-CSharp.csproj|G:\\Yusuf-2026\\RhythmSword\\RhythmSword-Prototype\\assets\\scripts\\background\\quadopacitysettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A88C0D8-C2A4-B5F1-0135-B99A1BC5F39A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\background\\quadopacitysettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6A88C0D8-C2A4-B5F1-0135-B99A1BC5F39A}|Assembly-CSharp.csproj|G:\\Yusuf-2026\\RhythmSword\\RhythmSword-Prototype\\assets\\scripts\\chart\\chartplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A88C0D8-C2A4-B5F1-0135-B99A1BC5F39A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\chart\\chartplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6A88C0D8-C2A4-B5F1-0135-B99A1BC5F39A}|Assembly-CSharp.csproj|G:\\Yusuf-2026\\RhythmSword\\RhythmSword-Prototype\\assets\\scripts\\background\\wallpartition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A88C0D8-C2A4-B5F1-0135-B99A1BC5F39A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\background\\wallpartition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6A88C0D8-C2A4-B5F1-0135-B99A1BC5F39A}|Assembly-CSharp.csproj|G:\\Yusuf-2026\\RhythmSword\\RhythmSword-Prototype\\assets\\scripts\\spawning\\cubespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A88C0D8-C2A4-B5F1-0135-B99A1BC5F39A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spawning\\cubespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6A88C0D8-C2A4-B5F1-0135-B99A1BC5F39A}|Assembly-CSharp.csproj|G:\\Yusuf-2026\\RhythmSword\\RhythmSword-Prototype\\assets\\scripts\\background\\backgroundspinner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A88C0D8-C2A4-B5F1-0135-B99A1BC5F39A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\background\\backgroundspinner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,112 +26,40 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "QuadOpacitySettings.cs",
-              "DocumentMoniker": "G:\\Yusuf-2026\\RhythmSword\\RhythmSword-Prototype\\Assets\\Scripts\\Background\\QuadOpacitySettings.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Background\\QuadOpacitySettings.cs",
-              "ToolTip": "G:\\Yusuf-2026\\RhythmSword\\RhythmSword-Prototype\\Assets\\Scripts\\Background\\QuadOpacitySettings.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Background\\QuadOpacitySettings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-14T12:04:34.024Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SunRotation.cs",
-              "DocumentMoniker": "G:\\Yusuf-2026\\RhythmSword\\RhythmSword-Prototype\\Assets\\Scripts\\Background\\SunRotation.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Background\\SunRotation.cs",
-              "ToolTip": "G:\\Yusuf-2026\\RhythmSword\\RhythmSword-Prototype\\Assets\\Scripts\\Background\\SunRotation.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Background\\SunRotation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-14T11:40:13.392Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TimedWallBreaker.cs",
-              "DocumentMoniker": "G:\\Yusuf-2026\\RhythmSword\\RhythmSword-Prototype\\Assets\\Scripts\\Background\\TimedWallBreaker.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Background\\TimedWallBreaker.cs",
-              "ToolTip": "G:\\Yusuf-2026\\RhythmSword\\RhythmSword-Prototype\\Assets\\Scripts\\Background\\TimedWallBreaker.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Background\\TimedWallBreaker.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAYwDwAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-14T10:27:12.334Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "WallPartition.cs",
-              "DocumentMoniker": "G:\\Yusuf-2026\\RhythmSword\\RhythmSword-Prototype\\Assets\\Scripts\\Background\\WallPartition.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Background\\WallPartition.cs",
-              "ToolTip": "G:\\Yusuf-2026\\RhythmSword\\RhythmSword-Prototype\\Assets\\Scripts\\Background\\WallPartition.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Background\\WallPartition.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAqwAwAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-14T10:22:08.562Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "BackgroundSpinner.cs",
-              "DocumentMoniker": "G:\\Yusuf-2026\\RhythmSword\\RhythmSword-Prototype\\Assets\\Scripts\\Background\\BackgroundSpinner.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Background\\BackgroundSpinner.cs",
-              "ToolTip": "G:\\Yusuf-2026\\RhythmSword\\RhythmSword-Prototype\\Assets\\Scripts\\Background\\BackgroundSpinner.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Background\\BackgroundSpinner.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-08T14:45:51.733Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Slicer.cs",
+              "DocumentMoniker": "G:\\Yusuf-2026\\RhythmSword\\RhythmSword-Prototype\\Assets\\Scripts\\EzySlice\\Slicer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EzySlice\\Slicer.cs",
+              "ToolTip": "G:\\Yusuf-2026\\RhythmSword\\RhythmSword-Prototype\\Assets\\Scripts\\EzySlice\\Slicer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EzySlice\\Slicer.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAQwEcAAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T12:45:31.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "PlayerManager.cs",
               "DocumentMoniker": "G:\\Yusuf-2026\\RhythmSword\\RhythmSword-Prototype\\Assets\\Scripts\\Player\\PlayerManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerManager.cs",
               "ToolTip": "G:\\Yusuf-2026\\RhythmSword\\RhythmSword-Prototype\\Assets\\Scripts\\Player\\PlayerManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerManager.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAowCYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-07T07:08:46.353Z"
+              "WhenOpened": "2026-10-15T12:00:25.419Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CubeSpawner.cs",
-              "DocumentMoniker": "G:\\Yusuf-2026\\RhythmSword\\RhythmSword-Prototype\\Assets\\Scripts\\Spawning\\CubeSpawner.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Spawning\\CubeSpawner.cs",
-              "ToolTip": "G:\\Yusuf-2026\\RhythmSword\\RhythmSword-Prototype\\Assets\\Scripts\\Spawning\\CubeSpawner.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Spawning\\CubeSpawner.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAABoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-06T11:47:05.664Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ChartPlayer.cs",
-              "DocumentMoniker": "G:\\Yusuf-2026\\RhythmSword\\RhythmSword-Prototype\\Assets\\Scripts\\Chart\\ChartPlayer.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Chart\\ChartPlayer.cs",
-              "ToolTip": "G:\\Yusuf-2026\\RhythmSword\\RhythmSword-Prototype\\Assets\\Scripts\\Chart\\ChartPlayer.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Chart\\ChartPlayer.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-06T11:45:34.926Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "SwordRayInteractor.cs",
               "DocumentMoniker": "G:\\Yusuf-2026\\RhythmSword\\RhythmSword-Prototype\\Assets\\Scripts\\Player\\SwordRayInteractor.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\SwordRayInteractor.cs",
               "ToolTip": "G:\\Yusuf-2026\\RhythmSword\\RhythmSword-Prototype\\Assets\\Scripts\\Player\\SwordRayInteractor.cs",
               "RelativeToolTip": "Assets\\Scripts\\Player\\SwordRayInteractor.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAQwBgAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAmwGgAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-06T11:40:23.437Z"
+              "WhenOpened": "2026-10-06T11:40:23.437Z",
+              "EditorCaption": ""
             }
           ]
         }

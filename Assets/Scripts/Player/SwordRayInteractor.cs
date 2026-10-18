@@ -31,43 +31,6 @@ public class SwordRayInteractor : XRSimpleInteractable
     {
         base.OnHoverEntered(args);
 
-        //if (args.interactorObject is XRRayInteractor rayInteractor)
-        //{
-        //    if (rayInteractor.TryGetHitInfo(out Vector3 hitPosition, out Vector3 hitNormal, out int PointIndex, out bool isValidTarget))
-        //    {
-        //        GameObject cube = parent.transform.GetChild(5).transform.GetChild(0).gameObject;
-        //        Material material = cube.GetComponent<MeshRenderer>().material;
-
-        //        SlicedHull parts = cube.Slice(transform.InverseTransformPoint(hitPosition), hitNormal, material);
-
-        //        if (parts != null)
-        //        {
-        //            // 3. Üst ve alt parçaları bağımsız 3D nesneler olarak üret
-        //            GameObject upperPart = parts.CreateUpperHull(cube, material);
-        //            GameObject lowerPart = parts.CreateLowerHull(cube, material);
-
-        //            ParcayaFizikEkle(upperPart, hitNormal* 2f);
-        //            ParcayaFizikEkle(lowerPart, -hitNormal * 2f);
-
-        //            Debug.Log("Parça başarıyla kesildi...");
-        //        }
-        //        else
-        //        {
-
-        //            Debug.Log("Parçalar null...");
-        //        }
-        //    }
-        //}
-
-        //RaycastHit hit;
-        //Vector3 direction = other.transform.position - transform.position;
-
-        //if (Physics.Raycast(transform.position, direction.normalized, out hit, direction.magnitude + 1f))
-        //{
-        //    Vector3 hitPoint = hit.point;
-        //    Debug.Log("Raycast Hit Point: " + hitPoint);
-        //}
-
         string interactorName = args.interactorObject.transform.name;
 
         if (interactorName.Contains("Left") && parent.GetComponent<Note>().GetColor() == COLOR.RED)
@@ -115,53 +78,53 @@ public class SwordRayInteractor : XRSimpleInteractable
 
         float randomForce = Random.Range(3.0f, 5.0f);
 
-        // 1. Küpün üzerine gelen interactor'ı (el/lazer/kontrolcü) alıyoruz
-        Transform interactorTransform = args.interactorObject.transform;
+        //// 1. Küpün üzerine gelen interactor'ı (el/lazer/kontrolcü) alıyoruz
+        //Transform interactorTransform = args.interactorObject.transform;
 
         if (gameObject.name == "LEFT" || gameObject.name == "RIGHT")
         {
-            interactorTransform.Rotate(0f, 0f, 90f);
-            //    GameObject newCubeBroken = Instantiate(cubeBroken, parent.transform.position, Quaternion.Euler(0f, 0f, 90f));
-            //    newCubeBroken.transform.GetChild(0).gameObject.GetComponent<MeshRenderer>().material = parent.transform.GetChild(5).transform.GetChild(0).GetComponent<MeshRenderer>().material;
-            //    newCubeBroken.transform.GetChild(1).gameObject.GetComponent<MeshRenderer>().material = parent.transform.GetChild(5).transform.GetChild(0).GetComponent<MeshRenderer>().material;
+            //interactorTransform.Rotate(0f, 0f, 90f);
+            GameObject newCubeBroken = Instantiate(cubeBroken, parent.transform.position, Quaternion.Euler(0f, 0f, 90f));
+            newCubeBroken.transform.GetChild(0).gameObject.GetComponent<MeshRenderer>().material = parent.transform.GetChild(5).transform.GetChild(0).GetComponent<MeshRenderer>().material;
+            newCubeBroken.transform.GetChild(1).gameObject.GetComponent<MeshRenderer>().material = parent.transform.GetChild(5).transform.GetChild(0).GetComponent<MeshRenderer>().material;
 
-            //    newCubeBroken.transform.GetChild(0).gameObject.GetComponent<Rigidbody>().AddForce(Vector3.up * randomForce, ForceMode.Impulse);
-            //    newCubeBroken.transform.GetChild(1).gameObject.GetComponent<Rigidbody>().AddForce(Vector3.down * randomForce, ForceMode.Impulse);
-            //    Destroy(newCubeBroken, 0.5f);
+            newCubeBroken.transform.GetChild(0).gameObject.GetComponent<Rigidbody>().AddForce(Vector3.up * randomForce, ForceMode.Impulse);
+            newCubeBroken.transform.GetChild(1).gameObject.GetComponent<Rigidbody>().AddForce(Vector3.down * randomForce, ForceMode.Impulse);
+            Destroy(newCubeBroken, 0.5f);
         }
 
         else if (gameObject.name == "UP" || gameObject.name == "DOWN")
         {
-            //    GameObject newCubeBroken = Instantiate(cubeBroken, parent.transform.position, Quaternion.Euler(0f, 0f, 0f));
-            //    newCubeBroken.transform.GetChild(0).gameObject.GetComponent<MeshRenderer>().material = parent.transform.GetChild(5).transform.GetChild(0).GetComponent<MeshRenderer>().material;
-            //    newCubeBroken.transform.GetChild(1).gameObject.GetComponent<MeshRenderer>().material = parent.transform.GetChild(5).transform.GetChild(0).GetComponent<MeshRenderer>().material;
+            GameObject newCubeBroken = Instantiate(cubeBroken, parent.transform.position, Quaternion.Euler(0f, 0f, 0f));
+            newCubeBroken.transform.GetChild(0).gameObject.GetComponent<MeshRenderer>().material = parent.transform.GetChild(5).transform.GetChild(0).GetComponent<MeshRenderer>().material;
+            newCubeBroken.transform.GetChild(1).gameObject.GetComponent<MeshRenderer>().material = parent.transform.GetChild(5).transform.GetChild(0).GetComponent<MeshRenderer>().material;
 
-            //    newCubeBroken.transform.GetChild(0).gameObject.GetComponent<Rigidbody>().AddForce(Vector3.up * randomForce + (Vector3.left * randomForce), ForceMode.Impulse);
-            //    newCubeBroken.transform.GetChild(1).gameObject.GetComponent<Rigidbody>().AddForce(Vector3.down * randomForce + (Vector3.right * randomForce), ForceMode.Impulse);
+            newCubeBroken.transform.GetChild(0).gameObject.GetComponent<Rigidbody>().AddForce(Vector3.up * randomForce + (Vector3.left * randomForce), ForceMode.Impulse);
+            newCubeBroken.transform.GetChild(1).gameObject.GetComponent<Rigidbody>().AddForce(Vector3.down * randomForce + (Vector3.right * randomForce), ForceMode.Impulse);
 
-            //    Destroy(newCubeBroken, 0.5f);
+            Destroy(newCubeBroken, 0.5f);
         }
 
-        GameObject cube = parent.transform.GetChild(5).transform.GetChild(0).gameObject;
-        Material material = cube.GetComponent<MeshRenderer>().material;
+        //GameObject cube = parent.transform.GetChild(5).transform.GetChild(0).gameObject;
+        //Material material = cube.GetComponent<MeshRenderer>().material;
 
-        // 2. Kesme noktasını ve kesim açısını (düzlemini) belirle
-        Vector3 kesimNoktasi = interactorTransform.position;
-        // Dilimleme düzlemi olarak kontrolcünün yukarı veya ileri yönünü kullanabilirsin:
-        Vector3 kesimNormalligi = interactorTransform.up;
+        //// 2. Kesme noktasını ve kesim açısını (düzlemini) belirle
+        //Vector3 kesimNoktasi = interactorTransform.position;
+        //// Dilimleme düzlemi olarak kontrolcünün yukarı veya ileri yönünü kullanabilirsin:
+        //Vector3 kesimNormalligi = interactorTransform.up;
 
-        // 3. Küpü dilimle
-        SlicedHull parcalar = cube.Slice(kesimNoktasi, kesimNormalligi, material);
+        //// 3. Küpü dilimle
+        //SlicedHull parcalar = cube.Slice(kesimNoktasi, kesimNormalligi, material);
 
-        if (parcalar != null)
-        {
-            // İki yeni fiziksel parçayı oluştur
-            GameObject ustParca = parcalar.CreateUpperHull(cube, material);
-            GameObject altParca = parcalar.CreateLowerHull(cube, material);
+        //if (parcalar != null)
+        //{
+        //    // İki yeni fiziksel parçayı oluştur
+        //    GameObject ustParca = parcalar.CreateUpperHull(cube, material);
+        //    GameObject altParca = parcalar.CreateLowerHull(cube, material);
 
-            ParcayaFizikEkle(ustParca, kesimNormalligi * 2f);
-            ParcayaFizikEkle(altParca, -kesimNormalligi * 2f);
-        }
+        //    ParcayaFizikEkle(ustParca, kesimNormalligi * 2f);
+        //    ParcayaFizikEkle(altParca, -kesimNormalligi * 2f);
+        //}
         HapticFeedbackController.TriggerHaptic(args.interactorObject, 0.4f, 0.1f);
 
         Destroy(parent);

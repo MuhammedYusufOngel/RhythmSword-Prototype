@@ -3,15 +3,15 @@
   "WorkspaceRootPath": "G:\\Yusuf-2026\\RhythmSword\\RhythmSword-Prototype\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6A88C0D8-C2A4-B5F1-0135-B99A1BC5F39A}|Assembly-CSharp.csproj|G:\\Yusuf-2026\\RhythmSword\\RhythmSword-Prototype\\assets\\scripts\\player\\swordrayinteractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6A88C0D8-C2A4-B5F1-0135-B99A1BC5F39A}|Assembly-CSharp.csproj|g:\\yusuf-2026\\rhythmsword\\rhythmsword-prototype\\assets\\scripts\\player\\swordrayinteractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6A88C0D8-C2A4-B5F1-0135-B99A1BC5F39A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\swordrayinteractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A88C0D8-C2A4-B5F1-0135-B99A1BC5F39A}|Assembly-CSharp.csproj|g:\\yusuf-2026\\rhythmsword\\rhythmsword-prototype\\assets\\scripts\\ezyslice\\slicer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6A88C0D8-C2A4-B5F1-0135-B99A1BC5F39A}|Assembly-CSharp.csproj|G:\\Yusuf-2026\\RhythmSword\\RhythmSword-Prototype\\assets\\scripts\\ezyslice\\slicer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6A88C0D8-C2A4-B5F1-0135-B99A1BC5F39A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ezyslice\\slicer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A88C0D8-C2A4-B5F1-0135-B99A1BC5F39A}|Assembly-CSharp.csproj|g:\\yusuf-2026\\rhythmsword\\rhythmsword-prototype\\assets\\scripts\\player\\playermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6A88C0D8-C2A4-B5F1-0135-B99A1BC5F39A}|Assembly-CSharp.csproj|G:\\Yusuf-2026\\RhythmSword\\RhythmSword-Prototype\\assets\\scripts\\player\\playermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6A88C0D8-C2A4-B5F1-0135-B99A1BC5F39A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,8 +34,7 @@
               "RelativeToolTip": "Assets\\Scripts\\EzySlice\\Slicer.cs",
               "ViewState": "AgIAADgAAAAAAAAAAAAQwEcAAABtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-15T12:45:31.152Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-15T12:45:31.152Z"
             },
             {
               "$type": "Document",
@@ -47,8 +46,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-15T12:00:25.419Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-15T12:00:25.419Z"
             },
             {
               "$type": "Document",
@@ -58,7 +56,7 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\SwordRayInteractor.cs",
               "ToolTip": "G:\\Yusuf-2026\\RhythmSword\\RhythmSword-Prototype\\Assets\\Scripts\\Player\\SwordRayInteractor.cs",
               "RelativeToolTip": "Assets\\Scripts\\Player\\SwordRayInteractor.cs",
-              "ViewState": "AgIAAGwAAAAAAAAAAAAAAHYAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAqwIQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-06T11:40:23.437Z",
               "EditorCaption": ""
