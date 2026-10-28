@@ -1,6 +1,5 @@
 using System.Collections;
 using System.Collections.Generic;
-using UnityEditor.Experimental.GraphView;
 using UnityEngine;
 
 public class TimedWallBreaker : MonoBehaviour
@@ -104,7 +103,7 @@ public class TimedWallBreaker : MonoBehaviour
             @object.GetComponent<Rigidbody>().AddForce(Vector3.left * forwardForce, ForceMode.Impulse);
             @object.GetComponent<Rigidbody>().AddTorque(Random.insideUnitSphere * 1.5f, ForceMode.Impulse);
 
-            Destroy(@object, 5.0f);
+            //Destroy(@object, 5.0f);
             
             if (dustEffectPrefab != null)
             {

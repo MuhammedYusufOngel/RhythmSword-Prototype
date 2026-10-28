@@ -193,6 +193,14 @@ PrefabInstance:
       propertyPath: missSource
       value: 
       objectReference: {fileID: 771781419}
+    - target: {fileID: 4704262758053167687, guid: 7fcb384a517d7b548b2725083f3a5ea5, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 46.589996
+      objectReference: {fileID: 0}
+    - target: {fileID: 4704262758053167687, guid: 7fcb384a517d7b548b2725083f3a5ea5, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 25.609997
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []

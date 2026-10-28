@@ -1,0 +1,10 @@
+# ninja log v5
+44	8658	8140613658551111	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	808cc3f27a986e80
+32	8673	8140613658648067	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	a8051f72dca55609
+69	8688	8140613658912291	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	85d00508aaa36e52
+10	8710	8140613659108640	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	91a6188b1bcd0bf9
+0	8745	8140613659522788	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	29cde763b9a69cf
+57	8954	8140613661580815	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	62b5c5f1cbac19a
+82	9037	8140613662449323	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	f7759bafa1848ec2
+20	9060	8140613662648830	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	85d4d8dc51415eb
+9061	9224	8140613664291497	D:/Projects/Rhyt/RhythmSword-Prototype/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/3aq38m6w/obj/arm64-v8a/libgame.so	41f56a4d67e6ab79

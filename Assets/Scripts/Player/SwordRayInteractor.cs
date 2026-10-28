@@ -10,21 +10,21 @@ public class SwordRayInteractor : XRSimpleInteractable
     [SerializeField] GameObject parent;
     [SerializeField] GameObject cubeBroken;
 
-    void ParcayaFizikEkle(GameObject parca, Vector3 ayrilmaKuvveti)
-    {
-        // Parçalara fizik bileşenlerini ekle
-        Rigidbody rb = parca.AddComponent<Rigidbody>();
-        MeshCollider col = parca.AddComponent<MeshCollider>();
-        col.convex = true;
+    //void ParcayaFizikEkle(GameObject parca, Vector3 ayrilmaKuvveti)
+    //{
+    //    // Parçalara fizik bileşenlerini ekle
+    //    Rigidbody rb = parca.AddComponent<Rigidbody>();
+    //    MeshCollider col = parca.AddComponent<MeshCollider>();
+    //    col.convex = true;
 
-        // İki parçanın birbirinden ayrılması için zıt yönlerde hafif itme kuvveti ver
-        rb.AddForce(ayrilmaKuvveti, ForceMode.Impulse);
-        parca.transform.position = parent.transform.position;
-        parca.transform.localScale = new Vector3(0.3f, 0.3f, 0.3f);
+    //    // İki parçanın birbirinden ayrılması için zıt yönlerde hafif itme kuvveti ver
+    //    rb.AddForce(ayrilmaKuvveti, ForceMode.Impulse);
+    //    parca.transform.position = parent.transform.position;
+    //    parca.transform.localScale = new Vector3(0.3f, 0.3f, 0.3f);
 
-        // Bir süre sonra sahneden temizle
-        Destroy(parca, 4f);
-    }
+    //    // Bir süre sonra sahneden temizle
+    //    Destroy(parca, 4f);
+    //}
 
 
     protected override void OnHoverEntered(HoverEnterEventArgs args)
@@ -84,25 +84,25 @@ public class SwordRayInteractor : XRSimpleInteractable
         if (gameObject.name == "LEFT" || gameObject.name == "RIGHT")
         {
             //interactorTransform.Rotate(0f, 0f, 90f);
-            GameObject newCubeBroken = Instantiate(cubeBroken, parent.transform.position, Quaternion.Euler(0f, 0f, 90f));
-            newCubeBroken.transform.GetChild(0).gameObject.GetComponent<MeshRenderer>().material = parent.transform.GetChild(5).transform.GetChild(0).GetComponent<MeshRenderer>().material;
-            newCubeBroken.transform.GetChild(1).gameObject.GetComponent<MeshRenderer>().material = parent.transform.GetChild(5).transform.GetChild(0).GetComponent<MeshRenderer>().material;
+            //GameObject newCubeBroken = Instantiate(cubeBroken, parent.transform.position, Quaternion.Euler(0f, 0f, 90f));
+            //newCubeBroken.transform.GetChild(0).gameObject.GetComponent<MeshRenderer>().material = parent.transform.GetChild(5).transform.GetChild(0).GetComponent<MeshRenderer>().material;
+            //newCubeBroken.transform.GetChild(1).gameObject.GetComponent<MeshRenderer>().material = parent.transform.GetChild(5).transform.GetChild(0).GetComponent<MeshRenderer>().material;
 
-            newCubeBroken.transform.GetChild(0).gameObject.GetComponent<Rigidbody>().AddForce(Vector3.up * randomForce, ForceMode.Impulse);
-            newCubeBroken.transform.GetChild(1).gameObject.GetComponent<Rigidbody>().AddForce(Vector3.down * randomForce, ForceMode.Impulse);
-            Destroy(newCubeBroken, 0.5f);
+            //newCubeBroken.transform.GetChild(0).gameObject.GetComponent<Rigidbody>().AddForce(Vector3.up * randomForce, ForceMode.Impulse);
+            //newCubeBroken.transform.GetChild(1).gameObject.GetComponent<Rigidbody>().AddForce(Vector3.down * randomForce, ForceMode.Impulse);
+            //Destroy(newCubeBroken, 0.5f);
         }
 
         else if (gameObject.name == "UP" || gameObject.name == "DOWN")
         {
-            GameObject newCubeBroken = Instantiate(cubeBroken, parent.transform.position, Quaternion.Euler(0f, 0f, 0f));
-            newCubeBroken.transform.GetChild(0).gameObject.GetComponent<MeshRenderer>().material = parent.transform.GetChild(5).transform.GetChild(0).GetComponent<MeshRenderer>().material;
-            newCubeBroken.transform.GetChild(1).gameObject.GetComponent<MeshRenderer>().material = parent.transform.GetChild(5).transform.GetChild(0).GetComponent<MeshRenderer>().material;
+            //GameObject newCubeBroken = Instantiate(cubeBroken, parent.transform.position, Quaternion.Euler(0f, 0f, 0f));
+            //newCubeBroken.transform.GetChild(0).gameObject.GetComponent<MeshRenderer>().material = parent.transform.GetChild(5).transform.GetChild(0).GetComponent<MeshRenderer>().material;
+            //newCubeBroken.transform.GetChild(1).gameObject.GetComponent<MeshRenderer>().material = parent.transform.GetChild(5).transform.GetChild(0).GetComponent<MeshRenderer>().material;
 
-            newCubeBroken.transform.GetChild(0).gameObject.GetComponent<Rigidbody>().AddForce(Vector3.up * randomForce + (Vector3.left * randomForce), ForceMode.Impulse);
-            newCubeBroken.transform.GetChild(1).gameObject.GetComponent<Rigidbody>().AddForce(Vector3.down * randomForce + (Vector3.right * randomForce), ForceMode.Impulse);
+            //newCubeBroken.transform.GetChild(0).gameObject.GetComponent<Rigidbody>().AddForce(Vector3.up * randomForce + (Vector3.left * randomForce), ForceMode.Impulse);
+            //newCubeBroken.transform.GetChild(1).gameObject.GetComponent<Rigidbody>().AddForce(Vector3.down * randomForce + (Vector3.right * randomForce), ForceMode.Impulse);
 
-            Destroy(newCubeBroken, 0.5f);
+            //Destroy(newCubeBroken, 0.5f);
         }
 
         //GameObject cube = parent.transform.GetChild(5).transform.GetChild(0).gameObject;
@@ -127,6 +127,6 @@ public class SwordRayInteractor : XRSimpleInteractable
         //}
         HapticFeedbackController.TriggerHaptic(args.interactorObject, 0.4f, 0.1f);
 
-        Destroy(parent);
+        //Destroy(parent);
     }
 }

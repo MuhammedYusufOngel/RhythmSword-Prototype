@@ -3,32 +3,20 @@
   "WorkspaceRootPath": "D:\\Projects\\Rhyt\\RhythmSword-Prototype\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\projects\\rhyt\\rhythmsword-prototype\\assets\\scripts\\chart\\chartplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\chart\\chartplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\projects\\rhyt\\rhythmsword-prototype\\assets\\scripts\\background\\atmospheremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\background\\atmospheremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\projects\\rhyt\\rhythmsword-prototype\\assets\\scripts\\player\\misspoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\misspoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\projects\\rhyt\\rhythmsword-prototype\\assets\\scripts\\notes\\notemovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\notes\\notemovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\projects\\rhyt\\rhythmsword-prototype\\assets\\scripts\\player\\playermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\projects\\rhyt\\rhythmsword-prototype\\assets\\scripts\\spawning\\cubespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spawning\\cubespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\projects\\rhyt\\rhythmsword-prototype\\assets\\scripts\\background\\timedwallbreaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\background\\timedwallbreaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\projects\\rhyt\\rhythmsword-prototype\\assets\\scripts\\notes\\optimizercubeslicer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\notes\\optimizercubeslicer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\projects\\rhyt\\rhythmsword-prototype\\assets\\scripts\\background\\sunrotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\background\\sunrotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\projects\\rhyt\\rhythmsword-prototype\\assets\\scripts\\background\\wallsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\background\\wallsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,93 +26,59 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MissPoint.cs",
-              "DocumentMoniker": "D:\\Projects\\Rhyt\\RhythmSword-Prototype\\Assets\\Scripts\\Player\\MissPoint.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\MissPoint.cs",
-              "ToolTip": "D:\\Projects\\Rhyt\\RhythmSword-Prototype\\Assets\\Scripts\\Player\\MissPoint.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Player\\MissPoint.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAkAAAAlAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "OptimizerCubeSlicer.cs",
+              "DocumentMoniker": "D:\\Projects\\Rhyt\\RhythmSword-Prototype\\Assets\\Scripts\\Notes\\OptimizerCubeSlicer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Notes\\OptimizerCubeSlicer.cs",
+              "ToolTip": "D:\\Projects\\Rhyt\\RhythmSword-Prototype\\Assets\\Scripts\\Notes\\OptimizerCubeSlicer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Notes\\OptimizerCubeSlicer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-15T05:20:04.645Z",
+              "WhenOpened": "2026-10-20T13:50:00.693Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "SunRotation.cs",
-              "DocumentMoniker": "D:\\Projects\\Rhyt\\RhythmSword-Prototype\\Assets\\Scripts\\Background\\SunRotation.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Background\\SunRotation.cs",
-              "ToolTip": "D:\\Projects\\Rhyt\\RhythmSword-Prototype\\Assets\\Scripts\\Background\\SunRotation.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Background\\SunRotation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "NoteMovement.cs",
+              "DocumentMoniker": "D:\\Projects\\Rhyt\\RhythmSword-Prototype\\Assets\\Scripts\\Notes\\NoteMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Notes\\NoteMovement.cs",
+              "ToolTip": "D:\\Projects\\Rhyt\\RhythmSword-Prototype\\Assets\\Scripts\\Notes\\NoteMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Notes\\NoteMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-15T05:14:35.666Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PlayerManager.cs",
-              "DocumentMoniker": "D:\\Projects\\Rhyt\\RhythmSword-Prototype\\Assets\\Scripts\\Player\\PlayerManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerManager.cs",
-              "ToolTip": "D:\\Projects\\Rhyt\\RhythmSword-Prototype\\Assets\\Scripts\\Player\\PlayerManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerManager.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAcwB8AAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-12T14:43:51.152Z"
+              "WhenOpened": "2026-10-20T13:22:54.528Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ChartPlayer.cs",
-              "DocumentMoniker": "D:\\Projects\\Rhyt\\RhythmSword-Prototype\\Assets\\Scripts\\Chart\\ChartPlayer.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Chart\\ChartPlayer.cs",
-              "ToolTip": "D:\\Projects\\Rhyt\\RhythmSword-Prototype\\Assets\\Scripts\\Chart\\ChartPlayer.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Chart\\ChartPlayer.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAUwEIAAAAAAAAAAAAAAA==",
+              "Title": "AtmosphereManager.cs",
+              "DocumentMoniker": "D:\\Projects\\Rhyt\\RhythmSword-Prototype\\Assets\\Scripts\\Background\\AtmosphereManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Background\\AtmosphereManager.cs",
+              "ToolTip": "D:\\Projects\\Rhyt\\RhythmSword-Prototype\\Assets\\Scripts\\Background\\AtmosphereManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Background\\AtmosphereManager.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAqwCEAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-12T14:21:47.58Z",
+              "WhenOpened": "2026-10-20T09:22:11.966Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "CubeSpawner.cs",
-              "DocumentMoniker": "D:\\Projects\\Rhyt\\RhythmSword-Prototype\\Assets\\Scripts\\Spawning\\CubeSpawner.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Spawning\\CubeSpawner.cs",
-              "ToolTip": "D:\\Projects\\Rhyt\\RhythmSword-Prototype\\Assets\\Scripts\\Spawning\\CubeSpawner.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Spawning\\CubeSpawner.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "SunRotation.cs",
+              "DocumentMoniker": "D:\\Projects\\Rhyt\\RhythmSword-Prototype\\Assets\\Scripts\\Background\\SunRotation.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Background\\SunRotation.cs",
+              "ToolTip": "D:\\Projects\\Rhyt\\RhythmSword-Prototype\\Assets\\Scripts\\Background\\SunRotation.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Background\\SunRotation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-12T14:18:46.347Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TimedWallBreaker.cs",
-              "DocumentMoniker": "D:\\Projects\\Rhyt\\RhythmSword-Prototype\\Assets\\Scripts\\Background\\TimedWallBreaker.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Background\\TimedWallBreaker.cs",
-              "ToolTip": "D:\\Projects\\Rhyt\\RhythmSword-Prototype\\Assets\\Scripts\\Background\\TimedWallBreaker.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Background\\TimedWallBreaker.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAYwCsAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-11T11:26:02.154Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "WallSystem.cs",
-              "DocumentMoniker": "D:\\Projects\\Rhyt\\RhythmSword-Prototype\\Assets\\Scripts\\Background\\WallSystem.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Background\\WallSystem.cs",
-              "ToolTip": "D:\\Projects\\Rhyt\\RhythmSword-Prototype\\Assets\\Scripts\\Background\\WallSystem.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Background\\WallSystem.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBUAAABeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-10T11:56:49.228Z"
+              "WhenOpened": "2026-10-15T05:14:35.666Z",
+              "EditorCaption": ""
             }
           ]
         }

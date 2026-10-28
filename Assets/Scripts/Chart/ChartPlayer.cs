@@ -9,7 +9,7 @@ public class ChartPlayer : MonoBehaviour
     [SerializeField] private GameObject notePrefab;
     [SerializeField] private Transform spawnPoint;
     [SerializeField] private Transform target;
-    [SerializeField] private float travelTime = 4.5f;
+    [SerializeField] private float travelTime;
 
     private ChartData chart;
     private int nextNoteIndex = 0;
