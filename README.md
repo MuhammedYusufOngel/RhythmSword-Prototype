@@ -172,7 +172,7 @@ The `TimedWallBreaker` partitions a 672-piece brick wall into four sections usin
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/[REPOSITORY_URL_HERE]/RhythmSword-Prototype.git
+   git clone https://github.com/MuhammedYusufOngel/RhythmSword-Prototype.git
    ```
 
 2. Open the project in Unity Hub by selecting the cloned folder. Unity will import assets and resolve packages automatically.
@@ -237,6 +237,5 @@ AI-assisted tools were utilized during the development process for code suggesti
 
 ## Developer
 
-- GitHub: [Add link here]
-- LinkedIn: [Add link here]
-- Portfolio: [Add link here]
+- LinkedIn: [https://www.linkedin.com/in/muhammed-yusuf-öngel-505a04279/]
+- Portfolio: [muhammedyusufongel.github.io]
